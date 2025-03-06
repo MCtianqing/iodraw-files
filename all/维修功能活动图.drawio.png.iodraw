@@ -11,10 +11,10 @@
           <mxGeometry x="344" y="20" width="150" height="592" as="geometry" />
         </mxCell>
         <mxCell id="2W1_ZWGpC0mCGKB8hAE_-15" value="管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="544" y="20" width="150" height="592" as="geometry" />
+          <mxGeometry x="544" y="20" width="150" height="520" as="geometry" />
         </mxCell>
         <mxCell id="2W1_ZWGpC0mCGKB8hAE_-16" value="维修人员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="744" y="20" width="150" height="592" as="geometry" />
+          <mxGeometry x="744" y="20" width="150" height="520" as="geometry" />
         </mxCell>
         <mxCell id="2W1_ZWGpC0mCGKB8hAE_-17" value="提交维修请求 (问题描述)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2W1_ZWGpC0mCGKB8hAE_-13" target="2W1_ZWGpC0mCGKB8hAE_-14">
           <mxGeometry relative="1" as="geometry">
