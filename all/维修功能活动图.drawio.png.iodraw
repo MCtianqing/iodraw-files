@@ -37,25 +37,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2W1_ZWGpC0mCGKB8hAE_-20" value="接收并确认任务" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2W1_ZWGpC0mCGKB8hAE_-16" target="2W1_ZWGpC0mCGKB8hAE_-14">
+        <mxCell id="2W1_ZWGpC0mCGKB8hAE_-22" value="开始解决问题" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="631" y="291" />
+              <mxPoint x="631.5" y="350" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2W1_ZWGpC0mCGKB8hAE_-21" value="任务标记为“正在处理”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="2W1_ZWGpC0mCGKB8hAE_-14" target="2W1_ZWGpC0mCGKB8hAE_-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="629" y="345" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2W1_ZWGpC0mCGKB8hAE_-22" value="开始解决问题" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2W1_ZWGpC0mCGKB8hAE_-16" target="2W1_ZWGpC0mCGKB8hAE_-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="631" y="399" />
-            </Array>
+            <mxPoint x="819" y="350" as="sourcePoint" />
+            <mxPoint x="419" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2W1_ZWGpC0mCGKB8hAE_-23" value="完成任务" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2W1_ZWGpC0mCGKB8hAE_-16" target="2W1_ZWGpC0mCGKB8hAE_-14">
