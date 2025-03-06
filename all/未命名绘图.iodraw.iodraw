@@ -55,8 +55,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K3tDzkTqZQk8MItSSSGl-14" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="399" y="80" width="30" height="30" as="geometry" />
+        <mxCell id="K3tDzkTqZQk8MItSSSGl-14" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="398" y="100" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="K3tDzkTqZQk8MItSSSGl-14" parent="1" target="K3tDzkTqZQk8MItSSSGl-1">
           <mxGeometry relative="1" as="geometry">
