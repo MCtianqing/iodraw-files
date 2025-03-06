@@ -11,7 +11,7 @@
           <mxGeometry x="368" y="300" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-3" value="管理员分配维修任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="310.5" y="450" width="205" height="48" as="geometry" />
+          <mxGeometry x="309.5" y="420" width="205" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-4" value="维修人员接收并确认任务" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="309.5" y="540" width="208" height="48" as="geometry" />
@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-16" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="420" y="990" width="30" height="30" as="geometry" />
+          <mxGeometry x="399" y="900" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K3tDzkTqZQk8MItSSSGl-7" target="K3tDzkTqZQk8MItSSSGl-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
