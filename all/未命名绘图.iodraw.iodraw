@@ -14,16 +14,16 @@
           <mxGeometry x="312.5" y="390" width="205" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-4" value="维修人员接收并确认任务" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="309" y="460" width="208" height="48" as="geometry" />
+          <mxGeometry x="309" y="470" width="208" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-5" value="开始解决问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="334.5" y="540" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-6" value="维修完成" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="365" y="707" width="96" height="48" as="geometry" />
+          <mxGeometry x="365" y="630" width="96" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-7" value="维修人员标记任务为“已完成”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="291" y="790" width="245" height="66" as="geometry" />
+          <mxGeometry x="290.5" y="730" width="245" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K3tDzkTqZQk8MItSSSGl-1" target="K3tDzkTqZQk8MItSSSGl-2">
           <mxGeometry relative="1" as="geometry">
@@ -64,12 +64,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-16" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="399" y="900" width="30" height="30" as="geometry" />
+          <mxGeometry x="398.5" y="840" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K3tDzkTqZQk8MItSSSGl-7" target="K3tDzkTqZQk8MItSSSGl-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="940" as="sourcePoint" />
-            <mxPoint x="420" y="920" as="targetPoint" />
+            <mxPoint x="389.5" y="880" as="sourcePoint" />
+            <mxPoint x="419.5" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
