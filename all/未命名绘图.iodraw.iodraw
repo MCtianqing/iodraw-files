@@ -63,8 +63,8 @@
             <mxPoint x="414" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K3tDzkTqZQk8MItSSSGl-16" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="20" y="770" width="30" height="30" as="geometry" />
+        <mxCell id="K3tDzkTqZQk8MItSSSGl-16" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="399" y="920" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
