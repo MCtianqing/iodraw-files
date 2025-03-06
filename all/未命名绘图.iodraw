@@ -4,6 +4,49 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="U69UenLkKu3QlXVY4U27-1" value="管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="150" height="376" as="geometry" />
+        </mxCell>
+        <mxCell id="U69UenLkKu3QlXVY4U27-2" value="系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="233" y="20" width="150" height="376" as="geometry" />
+        </mxCell>
+        <mxCell id="U69UenLkKu3QlXVY4U27-3" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="U69UenLkKu3QlXVY4U27-2">
+          <mxGeometry x="70" y="109" width="10" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="U69UenLkKu3QlXVY4U27-4" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="U69UenLkKu3QlXVY4U27-2">
+          <mxGeometry x="70" y="217" width="10" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="U69UenLkKu3QlXVY4U27-5" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="461" y="20" width="150" height="376" as="geometry" />
+        </mxCell>
+        <mxCell id="U69UenLkKu3QlXVY4U27-6" value="发布通知 (增删改查)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="U69UenLkKu3QlXVY4U27-1" target="U69UenLkKu3QlXVY4U27-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U69UenLkKu3QlXVY4U27-7" value="操作成功/失败反馈" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="U69UenLkKu3QlXVY4U27-3" target="U69UenLkKu3QlXVY4U27-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="211" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U69UenLkKu3QlXVY4U27-8" value="查看通知 (按时间筛选)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="U69UenLkKu3QlXVY4U27-5" target="U69UenLkKu3QlXVY4U27-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="434" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U69UenLkKu3QlXVY4U27-9" value="显示通知列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="U69UenLkKu3QlXVY4U27-4" target="U69UenLkKu3QlXVY4U27-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="433" y="291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
