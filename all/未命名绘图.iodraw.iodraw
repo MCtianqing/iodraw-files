@@ -5,25 +5,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K3tDzkTqZQk8MItSSSGl-1" value="住客提交维修请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="48" y="20" width="190" height="48" as="geometry" />
+          <mxGeometry x="318.5" y="190" width="190" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-2" value="提供问题描述" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="97.5" y="130" width="90" height="90" as="geometry" />
+          <mxGeometry x="368" y="300" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-3" value="管理员分配维修任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="280" width="205" height="48" as="geometry" />
+          <mxGeometry x="310.5" y="450" width="205" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-4" value="维修人员接收并确认任务" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="39" y="370" width="208" height="48" as="geometry" />
+          <mxGeometry x="309.5" y="540" width="208" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-5" value="开始解决问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="64" y="460" width="157" height="48" as="geometry" />
+          <mxGeometry x="334.5" y="630" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-6" value="维修完成" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="94.5" y="537" width="96" height="48" as="geometry" />
+          <mxGeometry x="365" y="707" width="96" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-7" value="维修人员标记任务为“已完成”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20.5" y="620" width="245" height="66" as="geometry" />
+          <mxGeometry x="291" y="790" width="245" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K3tDzkTqZQk8MItSSSGl-1" target="K3tDzkTqZQk8MItSSSGl-2">
           <mxGeometry relative="1" as="geometry">
