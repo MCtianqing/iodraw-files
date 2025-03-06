@@ -72,6 +72,74 @@
             <mxPoint x="419.5" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2W1_ZWGpC0mCGKB8hAE_-1" value="住客" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="290" y="890" width="150" height="592" as="geometry" />
+        </mxCell>
+        <mxCell id="2W1_ZWGpC0mCGKB8hAE_-2" value="系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="614" y="890" width="150" height="592" as="geometry" />
+        </mxCell>
+        <mxCell id="2W1_ZWGpC0mCGKB8hAE_-3" value="管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="814" y="890" width="150" height="592" as="geometry" />
+        </mxCell>
+        <mxCell id="2W1_ZWGpC0mCGKB8hAE_-4" value="维修人员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1014" y="890" width="150" height="592" as="geometry" />
+        </mxCell>
+        <mxCell id="2W1_ZWGpC0mCGKB8hAE_-5" value="提交维修请求 (问题描述、房间号等)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2W1_ZWGpC0mCGKB8hAE_-1" target="2W1_ZWGpC0mCGKB8hAE_-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="536" y="999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2W1_ZWGpC0mCGKB8hAE_-6" value="维修请求到达" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2W1_ZWGpC0mCGKB8hAE_-2" target="2W1_ZWGpC0mCGKB8hAE_-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="798" y="1053" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2W1_ZWGpC0mCGKB8hAE_-7" value="分配任务" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2W1_ZWGpC0mCGKB8hAE_-3" target="2W1_ZWGpC0mCGKB8hAE_-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="998" y="1107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2W1_ZWGpC0mCGKB8hAE_-8" value="接收并确认任务" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2W1_ZWGpC0mCGKB8hAE_-4" target="2W1_ZWGpC0mCGKB8hAE_-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="901" y="1161" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2W1_ZWGpC0mCGKB8hAE_-9" value="任务标记为“正在处理”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="2W1_ZWGpC0mCGKB8hAE_-2" target="2W1_ZWGpC0mCGKB8hAE_-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="899" y="1215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2W1_ZWGpC0mCGKB8hAE_-10" value="开始解决问题" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2W1_ZWGpC0mCGKB8hAE_-4" target="2W1_ZWGpC0mCGKB8hAE_-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="901" y="1269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2W1_ZWGpC0mCGKB8hAE_-11" value="完成任务" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2W1_ZWGpC0mCGKB8hAE_-4" target="2W1_ZWGpC0mCGKB8hAE_-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="901" y="1323" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2W1_ZWGpC0mCGKB8hAE_-12" value="任务标记为“已完成”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="2W1_ZWGpC0mCGKB8hAE_-2" target="2W1_ZWGpC0mCGKB8hAE_-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="899" y="1377" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
