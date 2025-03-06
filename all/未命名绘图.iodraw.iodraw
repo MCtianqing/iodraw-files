@@ -14,10 +14,10 @@
           <mxGeometry x="40" y="280" width="205" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-4" value="维修人员接收并确认任务" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="39" y="491" width="208" height="48" as="geometry" />
+          <mxGeometry x="39" y="370" width="208" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-5" value="开始解决问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="64" y="590" width="157" height="48" as="geometry" />
+          <mxGeometry x="64.5" y="490" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K3tDzkTqZQk8MItSSSGl-6" value="维修完成" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="95" y="688" width="96" height="48" as="geometry" />
