@@ -7,11 +7,8 @@
         <mxCell id="pKI87qLIwqpfpk5mgcb7-1" value="住客提交维修请求" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="353" y="180" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-4" value="分配维修任务" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="352" y="360" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-5" value="管理员" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="390.5" y="440" width="80" height="80" as="geometry" />
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-5" value="管理员是否同意请求" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="380" y="429.5" width="90.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-6" value="发送给维修人员" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="315" y="610" width="98" height="49" as="geometry" />
@@ -36,17 +33,6 @@
             <Array as="points" />
             <mxPoint x="430" y="227" as="sourcePoint" />
             <mxPoint x="430" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" target="pKI87qLIwqpfpk5mgcb7-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="430" y="329" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="pKI87qLIwqpfpk5mgcb7-4" target="pKI87qLIwqpfpk5mgcb7-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="pKI87qLIwqpfpk5mgcb7-6" target="pKI87qLIwqpfpk5mgcb7-8" edge="1">
