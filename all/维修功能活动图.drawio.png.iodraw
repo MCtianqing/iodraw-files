@@ -20,7 +20,7 @@
           <mxGeometry x="261.5" y="390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-6" value="维修人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="560" width="90" height="49" as="geometry" />
+          <mxGeometry x="186" y="560" width="98" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-7" value="取消维修请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="322" y="560" width="92" height="49" as="geometry" />
