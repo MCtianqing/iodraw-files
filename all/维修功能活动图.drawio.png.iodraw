@@ -19,9 +19,6 @@
         <mxCell id="pKI87qLIwqpfpk5mgcb7-129" value="支付请求完成" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="335.5" y="580" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-130" value="系统标记订单为“已支付”" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="356" y="700" width="120" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-131" value="自动填写支付时间等信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="295.5" y="930" width="237" height="49" as="geometry" />
         </mxCell>
@@ -48,14 +45,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-137" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-129" target="pKI87qLIwqpfpk5mgcb7-130">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-137" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-129">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="416" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-138" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=16;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-130" target="pKI87qLIwqpfpk5mgcb7-131">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-138" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=16;" edge="1" parent="1" target="pKI87qLIwqpfpk5mgcb7-131">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="416" y="820.0000000000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-139" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-131" target="pKI87qLIwqpfpk5mgcb7-132">
@@ -64,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-140" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="399" y="150" width="30" height="30" as="geometry" />
+          <mxGeometry x="401" y="150" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-141" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="pKI87qLIwqpfpk5mgcb7-140" parent="1">
           <mxGeometry relative="1" as="geometry">
