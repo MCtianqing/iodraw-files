@@ -115,10 +115,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-110" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-110" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="90" y="2040" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-111" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="L1QXt7QglfFbmlCyxUpu-110" parent="1">
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-111" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontColor=#000000;" edge="1" source="L1QXt7QglfFbmlCyxUpu-110" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="105" y="2130" as="targetPoint" />
           </mxGeometry>
