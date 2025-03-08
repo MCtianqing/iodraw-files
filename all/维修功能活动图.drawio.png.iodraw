@@ -20,13 +20,13 @@
           <mxGeometry x="335.5" y="580" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-130" value="系统标记订单为“已支付”" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="300.5" y="660" width="225" height="225" as="geometry" />
+          <mxGeometry x="300.5" y="660" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-131" value="自动填写支付时间等信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="295.5" y="930" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-132" value="跳转回主菜单页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="319" y="1173" width="188" height="49" as="geometry" />
+          <mxGeometry x="320" y="1010" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-133" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-125" target="pKI87qLIwqpfpk5mgcb7-126">
           <mxGeometry relative="1" as="geometry">
