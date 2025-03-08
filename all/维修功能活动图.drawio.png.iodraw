@@ -42,10 +42,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-28" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="70" y="91" width="30" height="30" as="geometry" />
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-28" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="120" y="75.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-29" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="L1QXt7QglfFbmlCyxUpu-28" parent="1">
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-29" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="L1QXt7QglfFbmlCyxUpu-28" parent="1" target="L1QXt7QglfFbmlCyxUpu-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="85" y="181" as="targetPoint" />
           </mxGeometry>
