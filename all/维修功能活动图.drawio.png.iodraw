@@ -23,7 +23,7 @@
           <mxGeometry x="303" y="580" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-11" value="标记为“已完成”" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="279" y="720" width="173" height="49" as="geometry" />
+          <mxGeometry x="299.5" y="650" width="131" height="37.1" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-14" value="问题描述, 房间号, 其他信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" target="pKI87qLIwqpfpk5mgcb7-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -69,6 +69,14 @@
             <Array as="points" />
             <mxPoint x="375" y="479" as="sourcePoint" />
             <mxPoint x="375" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="210" y="530" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="L1QXt7QglfFbmlCyxUpu-2" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
