@@ -89,12 +89,8 @@
             <mxPoint x="376" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="385" y="569" as="sourcePoint" />
-            <mxPoint x="500" y="755" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="470" y="600" width="40" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
