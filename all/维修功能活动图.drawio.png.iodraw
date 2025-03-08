@@ -4,6 +4,105 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-1" value="提交维修请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="223" y="20" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-2" value="住客" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="260" y="119" width="81" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-3" value="系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="255" y="272" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-4" value="分配维修任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="222" y="370" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-5" value="管理员" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="252" y="469" width="97" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-6" value="维修人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="159" y="638" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-7" value="取消" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="334" y="638" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-8" value="接收并确认任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="135" y="737" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-9" value="开始解决问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="143" y="836" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-10" value="完成任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="159" y="934" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-11" value="标记为“已完成”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1033" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-12" value="自动填写完成时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="243" y="1033" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-1" target="pKI87qLIwqpfpk5mgcb7-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-14" value="问题描述, 房间号, 其他信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-2" target="pKI87qLIwqpfpk5mgcb7-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-3" target="pKI87qLIwqpfpk5mgcb7-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-4" target="pKI87qLIwqpfpk5mgcb7-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-17" value="分配给合适维修人员" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-5" target="pKI87qLIwqpfpk5mgcb7-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="222" y="602" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-18" value="不合适" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-5" target="pKI87qLIwqpfpk5mgcb7-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="602" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-6" target="pKI87qLIwqpfpk5mgcb7-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-8" target="pKI87qLIwqpfpk5mgcb7-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-9" target="pKI87qLIwqpfpk5mgcb7-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-10" target="pKI87qLIwqpfpk5mgcb7-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="106" y="1008" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-10" target="pKI87qLIwqpfpk5mgcb7-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="337" y="1008" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
