@@ -11,10 +11,10 @@
           <mxGeometry x="358" y="290" width="111" height="111" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-127" value="支付宝沙箱支付" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="327" y="503" width="172" height="49" as="geometry" />
+          <mxGeometry x="328" y="430" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-128" value="用户确认支付" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="350" y="602" width="126" height="49" as="geometry" />
+          <mxGeometry x="350" y="500" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-129" value="支付请求完成" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="335" y="700" width="157" height="49" as="geometry" />
