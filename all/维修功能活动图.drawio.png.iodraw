@@ -22,7 +22,7 @@
         <mxCell id="L1QXt7QglfFbmlCyxUpu-82" value="操作完成" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1496" y="1832" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-83" value="选择操作: 修改/查询" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-83" value="选择操作: 修改" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="665" y="2195" width="196" height="169" as="geometry" />
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-84" value="修改个人信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
