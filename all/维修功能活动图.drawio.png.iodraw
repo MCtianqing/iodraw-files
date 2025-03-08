@@ -8,7 +8,7 @@
           <mxGeometry x="353" y="180" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-5" value="管理员是否同意请求" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="380" y="429.5" width="90.5" height="90.5" as="geometry" />
+          <mxGeometry x="366" y="290" width="130" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-6" value="发送给维修人员" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="315" y="610" width="98" height="49" as="geometry" />
