@@ -22,7 +22,7 @@
         <mxCell id="pKI87qLIwqpfpk5mgcb7-6" value="维修人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="159" y="638" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-7" value="取消" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-7" value="取消维修请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="334" y="638" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-8" value="接收并确认任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -61,18 +61,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-17" value="分配给合适维修人员" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-5" target="pKI87qLIwqpfpk5mgcb7-6">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.3845" y="-39" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="222" y="602" />
             </Array>
+            <mxPoint x="7" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-18" value="维修请求不合理" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-5" target="pKI87qLIwqpfpk5mgcb7-7">
-          <mxGeometry x="0.3883" y="46" relative="1" as="geometry">
+          <mxGeometry x="0.3883" y="37" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="602" />
             </Array>
-            <mxPoint x="-6" y="-22" as="offset" />
+            <mxPoint x="-7" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-6" target="pKI87qLIwqpfpk5mgcb7-8">
