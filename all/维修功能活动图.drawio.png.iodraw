@@ -14,7 +14,7 @@
           <mxGeometry x="330" y="420" width="98" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-7" value="取消维修请求" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="451" y="610" width="92" height="49" as="geometry" />
+          <mxGeometry x="452" y="420" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-8" value="接收并确认任务" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="303" y="700" width="125" height="49" as="geometry" />
@@ -72,10 +72,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-27" value="请求合理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="315" y="540" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-28" value="请求不合理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="483" y="540" width="66" height="30" as="geometry" />
+          <mxGeometry x="496" y="370" width="66" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
