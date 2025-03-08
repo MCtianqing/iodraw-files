@@ -55,34 +55,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-177" value="查看公告" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="L1QXt7QglfFbmlCyxUpu-170">
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-179" value="查看公告" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="604" y="439" />
+              <mxPoint x="404" y="420" />
             </Array>
-            <mxPoint x="493.96153846153834" y="439" as="sourcePoint" />
+            <mxPoint x="93.96153846153857" y="420" as="sourcePoint" />
+            <mxPoint x="694.5" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-178" value="显示公告列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="L1QXt7QglfFbmlCyxUpu-170">
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-180" value="显示公告列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="607" y="491" />
+              <mxPoint x="407" y="472" />
             </Array>
-            <mxPoint x="493.96153846153834" y="491" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-179" value="查看公告" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="L1QXt7QglfFbmlCyxUpu-167" target="L1QXt7QglfFbmlCyxUpu-170">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="404" y="543" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-180" value="显示公告列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="L1QXt7QglfFbmlCyxUpu-170" target="L1QXt7QglfFbmlCyxUpu-167">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="407" y="595" />
-            </Array>
+            <mxPoint x="694.5" y="472" as="sourcePoint" />
+            <mxPoint x="93.96153846153857" y="472" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
