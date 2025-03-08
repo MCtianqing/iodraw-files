@@ -1,41 +1,41 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="dRLpPXwDdnReduv5Mdpb">
-    <mxGraphModel dx="734" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1049" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pKI87qLIwqpfpk5mgcb7-1" value="提交维修请求" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="223" y="20" width="156" height="49" as="geometry" />
+          <mxGeometry x="352" y="70" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-2" value="住客" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="257.5" y="90" width="87" height="87" as="geometry" />
+          <mxGeometry x="386.5" y="140" width="87" height="87" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-3" value="系统" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="255" y="230" width="92" height="49" as="geometry" />
+          <mxGeometry x="384" y="280" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-4" value="分配维修任务" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="223" y="310" width="157" height="49" as="geometry" />
+          <mxGeometry x="352" y="360" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-5" value="管理员" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="261.5" y="390" width="80" height="80" as="geometry" />
+          <mxGeometry x="390.5" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-6" value="发送给维修人员" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="186" y="560" width="98" height="49" as="geometry" />
+          <mxGeometry x="315" y="610" width="98" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-7" value="取消维修请求" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="322" y="560" width="92" height="49" as="geometry" />
+          <mxGeometry x="451" y="610" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-8" value="接收并确认任务" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="174" y="650" width="125" height="49" as="geometry" />
+          <mxGeometry x="303" y="700" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-9" value="开始解决问题" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="166" y="730" width="141" height="49" as="geometry" />
+          <mxGeometry x="295" y="780" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-10" value="完成任务" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="174" y="810" width="125" height="49" as="geometry" />
+          <mxGeometry x="303" y="860" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-11" value="标记为“已完成”" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="150" y="900" width="173" height="49" as="geometry" />
+          <mxGeometry x="279" y="950" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="pKI87qLIwqpfpk5mgcb7-1" target="pKI87qLIwqpfpk5mgcb7-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -75,29 +75,29 @@
         <mxCell id="pKI87qLIwqpfpk5mgcb7-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="pKI87qLIwqpfpk5mgcb7-10" target="pKI87qLIwqpfpk5mgcb7-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="220.5" y="991" as="sourcePoint" />
-            <mxPoint x="221.5" y="1040" as="targetPoint" />
+            <mxPoint x="349.5" y="1041" as="sourcePoint" />
+            <mxPoint x="350.5" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="pKI87qLIwqpfpk5mgcb7-5" target="pKI87qLIwqpfpk5mgcb7-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="245" y="619" as="sourcePoint" />
-            <mxPoint x="247" y="660" as="targetPoint" />
+            <mxPoint x="374" y="669" as="sourcePoint" />
+            <mxPoint x="376" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="pKI87qLIwqpfpk5mgcb7-5" target="pKI87qLIwqpfpk5mgcb7-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="292" y="460" as="sourcePoint" />
-            <mxPoint x="245" y="570" as="targetPoint" />
+            <mxPoint x="421" y="510" as="sourcePoint" />
+            <mxPoint x="374" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-27" value="请求合理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="186" y="490" width="60" height="30" as="geometry" />
+          <mxGeometry x="315" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-28" value="请求不合理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="354" y="490" width="66" height="30" as="geometry" />
+          <mxGeometry x="483" y="540" width="66" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
