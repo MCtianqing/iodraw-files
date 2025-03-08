@@ -72,12 +72,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="416" y="90" width="30" height="30" as="geometry" />
+          <mxGeometry x="416" y="120" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="L1QXt7QglfFbmlCyxUpu-2" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="431" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-4" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="416" y="740" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
