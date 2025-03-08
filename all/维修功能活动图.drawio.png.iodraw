@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-1" value="提交维修请求" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-1" value="住客提交维修请求" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="352" y="70" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-2" value="住客" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
