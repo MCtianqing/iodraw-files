@@ -14,7 +14,7 @@
           <mxGeometry x="632" y="27" width="138" height="30.6" as="geometry" />
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-22" value="换宿成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="902" y="27" width="124" height="49" as="geometry" />
+          <mxGeometry x="830" y="24.52" width="90" height="35.56" as="geometry" />
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-23" value="换宿失败" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="632" y="120" width="80" height="31.61" as="geometry" />
@@ -49,6 +49,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="85" y="181" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-30" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="860" y="122" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
