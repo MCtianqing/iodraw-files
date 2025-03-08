@@ -29,13 +29,13 @@
           <mxGeometry x="174" y="650" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-9" value="开始解决问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="159" y="730" width="141" height="49" as="geometry" />
+          <mxGeometry x="166" y="730" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-10" value="完成任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="159" y="934" width="125" height="49" as="geometry" />
+          <mxGeometry x="174" y="810" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-11" value="标记为“已完成”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="134.5" y="1040" width="173" height="49" as="geometry" />
+          <mxGeometry x="150" y="900" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-1" target="pKI87qLIwqpfpk5mgcb7-2">
           <mxGeometry relative="1" as="geometry">
@@ -88,7 +88,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-10">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-10" target="pKI87qLIwqpfpk5mgcb7-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="220.5" y="991" as="sourcePoint" />
