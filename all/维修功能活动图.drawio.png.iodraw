@@ -59,29 +59,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-94" value="分配成功/可取消" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-84" target="pKI87qLIwqpfpk5mgcb7-87">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-94" value="分配成功/可取消" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-84" target="pKI87qLIwqpfpk5mgcb7-87">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="554" y="335" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-95" value="维修任务已分配" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-82" target="pKI87qLIwqpfpk5mgcb7-89">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-95" value="维修任务已分配" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-82" target="pKI87qLIwqpfpk5mgcb7-89">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="654" y="387" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-96" value="接收并确认任务" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-89" target="pKI87qLIwqpfpk5mgcb7-89">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-96" value="接收并确认任务" style="curved=1;endArrow=block;rounded=0;fontSize=12;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-89" target="pKI87qLIwqpfpk5mgcb7-89">
+          <mxGeometry x="0.004" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="923" y="439" />
               <mxPoint x="923" y="469" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-97" value="解决问题" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-89" target="pKI87qLIwqpfpk5mgcb7-89">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-97" value="解决问题" style="curved=1;endArrow=block;rounded=0;fontSize=12;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-89" target="pKI87qLIwqpfpk5mgcb7-89">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="923" y="521" />
