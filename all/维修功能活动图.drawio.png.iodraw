@@ -61,7 +61,7 @@
               <mxPoint x="404" y="420" />
             </Array>
             <mxPoint x="93.96153846153857" y="420" as="sourcePoint" />
-            <mxPoint x="694.5" y="420" as="targetPoint" />
+            <mxPoint x="610" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-180" value="显示公告列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
@@ -69,7 +69,7 @@
             <Array as="points">
               <mxPoint x="407" y="472" />
             </Array>
-            <mxPoint x="694.5" y="472" as="sourcePoint" />
+            <mxPoint x="695" y="472" as="sourcePoint" />
             <mxPoint x="93.96153846153857" y="472" as="targetPoint" />
           </mxGeometry>
         </mxCell>
