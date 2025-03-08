@@ -4,128 +4,64 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-100" value="住客" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="20" y="170" width="150" height="688" as="geometry" />
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-101" value="系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="264" y="170" width="150" height="688" as="geometry" />
-        </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-102" value="支付宝" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="564" y="170" width="150" height="688" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-103" value="提交支付请求 (账单页面)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-100" target="pKI87qLIwqpfpk5mgcb7-101">
-          <mxGeometry x="0.0006" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="226" y="277" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-125" value="提交支付请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="880" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-104" value="接入支付宝API (支付宝沙箱支付)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-101" target="pKI87qLIwqpfpk5mgcb7-102">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="498" y="329" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-126" value="住客点击支付" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="606" y="979" width="145" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-105" value="输入买家账号密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-102" target="pKI87qLIwqpfpk5mgcb7-100">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="379" y="381" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-127" value="支付宝沙箱支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="592" y="1173" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-106" value="确认支付" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-100" target="pKI87qLIwqpfpk5mgcb7-102">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="376" y="433" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-128" value="用户确认支付" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="615" y="1272" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-107" value="支付完成" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-102" target="pKI87qLIwqpfpk5mgcb7-101">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="501" y="485" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-129" value="支付请求完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1370" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-108" value="跳转回主菜单页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-101" target="pKI87qLIwqpfpk5mgcb7-100">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="229" y="537" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-130" value="系统标记订单为“已支付”" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="566" y="1469" width="225" height="225" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-109" value="标记订单为 &quot;已支付&quot;" style="curved=1;endArrow=block;rounded=0;fontSize=12;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-101" target="pKI87qLIwqpfpk5mgcb7-101">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="589" />
-              <mxPoint x="390" y="619" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-131" value="自动填写支付时间等信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1744" width="237" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-110" value="自动填写支付时间等信息" style="curved=1;endArrow=block;rounded=0;fontSize=12;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-101" target="pKI87qLIwqpfpk5mgcb7-101">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="671" />
-              <mxPoint x="390" y="701" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-132" value="跳转回主菜单页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="584" y="1843" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-111" value="支付请求完成" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-101" target="pKI87qLIwqpfpk5mgcb7-100">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="229" y="753" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-112" value="提交支付请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="44" y="880" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-113" value="支付宝沙箱支付" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="42" y="979" width="161" height="161" as="geometry" />
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-114" value="用户确认支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="44" y="1189" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-115" value="支付请求完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="44" y="1288" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-116" value="订单标记为“已支付”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1386" width="205" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-117" value="支付时间等信息自动填写" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="27" y="1485" width="191" height="191" as="geometry" />
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-118" value="主菜单页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="52" y="1726" width="140" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-119" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-112" target="pKI87qLIwqpfpk5mgcb7-113">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-133" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-125" target="pKI87qLIwqpfpk5mgcb7-126">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-120" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-113" target="pKI87qLIwqpfpk5mgcb7-114">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-134" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-126" target="pKI87qLIwqpfpk5mgcb7-127">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-121" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-114" target="pKI87qLIwqpfpk5mgcb7-115">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-135" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-127" target="pKI87qLIwqpfpk5mgcb7-128">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-122" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-115" target="pKI87qLIwqpfpk5mgcb7-116">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-136" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-128" target="pKI87qLIwqpfpk5mgcb7-129">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-123" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-116" target="pKI87qLIwqpfpk5mgcb7-117">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-137" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-129" target="pKI87qLIwqpfpk5mgcb7-130">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-124" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-117" target="pKI87qLIwqpfpk5mgcb7-118">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-138" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-130" target="pKI87qLIwqpfpk5mgcb7-131">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-139" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-131" target="pKI87qLIwqpfpk5mgcb7-132">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
