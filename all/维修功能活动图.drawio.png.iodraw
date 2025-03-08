@@ -11,10 +11,10 @@
           <mxGeometry x="430" y="1950" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-74" value="住客/维修人员菜单" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="417" y="2256" width="124" height="49" as="geometry" />
+          <mxGeometry x="438" y="2146" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-75" value="选择操作: 增/删/改/查/条件查询" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="649" y="1763" width="228" height="151" as="geometry" />
+          <mxGeometry x="640" y="1940" width="163.83" height="108.5" as="geometry" />
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-81" value="更新数据库" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="960" y="1814" width="140" height="49" as="geometry" />
