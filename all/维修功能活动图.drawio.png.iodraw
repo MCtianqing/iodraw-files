@@ -93,8 +93,11 @@
             <mxPoint x="245" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-27" value="同意维修请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="186" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-28" value="同意维修请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="196" y="500" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
