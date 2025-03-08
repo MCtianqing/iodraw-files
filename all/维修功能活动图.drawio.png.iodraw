@@ -1,14 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="dRLpPXwDdnReduv5Mdpb">
-    <mxGraphModel dx="1049" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="734" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pKI87qLIwqpfpk5mgcb7-1" value="住客提交维修请求" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="352" y="70" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-2" value="住客" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="386.5" y="140" width="87" height="87" as="geometry" />
+          <mxGeometry x="353" y="180" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-3" value="系统" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="384" y="280" width="92" height="49" as="geometry" />
@@ -37,14 +34,10 @@
         <mxCell id="pKI87qLIwqpfpk5mgcb7-11" value="标记为“已完成”" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="279" y="950" width="173" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="pKI87qLIwqpfpk5mgcb7-1" target="pKI87qLIwqpfpk5mgcb7-2" edge="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-14" value="问题描述, 房间号, 其他信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" target="pKI87qLIwqpfpk5mgcb7-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-14" value="问题描述, 房间号, 其他信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="pKI87qLIwqpfpk5mgcb7-2" target="pKI87qLIwqpfpk5mgcb7-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="430" y="227" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="pKI87qLIwqpfpk5mgcb7-3" target="pKI87qLIwqpfpk5mgcb7-4" edge="1">
