@@ -7,9 +7,6 @@
         <mxCell id="pKI87qLIwqpfpk5mgcb7-125" value="提交支付请求" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="335" y="210" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-126" value="住客点击支付" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="358" y="290" width="111" height="111" as="geometry" />
-        </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-127" value="支付宝沙箱支付" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="328" y="430" width="172" height="49" as="geometry" />
         </mxCell>
@@ -25,14 +22,16 @@
         <mxCell id="pKI87qLIwqpfpk5mgcb7-132" value="跳转回主菜单页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="320" y="750" width="188" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-133" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-125" target="pKI87qLIwqpfpk5mgcb7-126">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-133" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-125">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="413.5" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-134" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=16;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-126" target="pKI87qLIwqpfpk5mgcb7-127">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-134" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=16;" edge="1" parent="1" target="pKI87qLIwqpfpk5mgcb7-127">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="413.5" y="401" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-135" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-127" target="pKI87qLIwqpfpk5mgcb7-128">
