@@ -109,17 +109,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1QXt7QglfFbmlCyxUpu-110" target="L1QXt7QglfFbmlCyxUpu-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-110" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="90" y="2040" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-111" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;fontColor=#000000;" edge="1" source="L1QXt7QglfFbmlCyxUpu-110" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="105" y="2130" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="105" y="2100" />
-              <mxPoint x="106" y="2130" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
