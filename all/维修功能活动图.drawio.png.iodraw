@@ -65,14 +65,6 @@
             <mxPoint x="7" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-18" value="维修请求不合理" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-5" target="pKI87qLIwqpfpk5mgcb7-7">
-          <mxGeometry x="0.3883" y="37" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="380" y="602" />
-            </Array>
-            <mxPoint x="-7" y="-22" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-6" target="pKI87qLIwqpfpk5mgcb7-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
