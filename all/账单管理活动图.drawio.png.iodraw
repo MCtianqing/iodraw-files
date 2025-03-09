@@ -53,11 +53,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DVd5G_SXdGHK9kXevOdZ-13" value="查看所有账单" style="curved=1;endArrow=block;rounded=0;strokeWidth=1;fontSize=15;" edge="1" parent="1" source="DVd5G_SXdGHK9kXevOdZ-4" target="DVd5G_SXdGHK9kXevOdZ-4">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0282" y="60" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="940" y="593" />
               <mxPoint x="940" y="623" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DVd5G_SXdGHK9kXevOdZ-14" value="获取账单详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;strokeWidth=1;fontSize=15;" edge="1" parent="1" source="DVd5G_SXdGHK9kXevOdZ-4" target="DVd5G_SXdGHK9kXevOdZ-2">
@@ -82,7 +83,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DVd5G_SXdGHK9kXevOdZ-17" value="推送未支付账单列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;strokeWidth=1;fontSize=15;" edge="1" parent="1" source="DVd5G_SXdGHK9kXevOdZ-1" target="DVd5G_SXdGHK9kXevOdZ-6">
+        <mxCell id="DVd5G_SXdGHK9kXevOdZ-17" value="推送本人账单列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;strokeWidth=1;fontSize=15;" edge="1" parent="1" source="DVd5G_SXdGHK9kXevOdZ-1" target="DVd5G_SXdGHK9kXevOdZ-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="894" y="861" />
