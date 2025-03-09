@@ -7,9 +7,10 @@
         <mxCell id="XCe4_-jqRI44bVvUtrAl-23" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="50" y="240" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-24" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#33001A;rounded=0;" edge="1" source="XCe4_-jqRI44bVvUtrAl-23" parent="1">
+        <mxCell id="XCe4_-jqRI44bVvUtrAl-24" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#33001A;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="255" as="targetPoint" />
+            <mxPoint x="70" y="255" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XCe4_-jqRI44bVvUtrAl-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
