@@ -44,12 +44,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-19" value="验证权限" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-2">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-19" value="验证信息是否充分" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-2">
+          <mxGeometry x="-0.0596" y="57" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="393" y="179" />
               <mxPoint x="393" y="209" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-20" value="获取房间和楼栋信息" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-2">
