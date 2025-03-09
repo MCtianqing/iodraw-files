@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="dRLpPXwDdnReduv5Mdpb">
-    <mxGraphModel dx="734" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1223" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,21 +36,6 @@
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-17" value="[权限不足]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="wXkwURRwx5KZRuwk7NXP-15">
           <mxGeometry y="207" width="669" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-18" value="请求分配宿舍" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-1" target="wXkwURRwx5KZRuwk7NXP-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="229" y="127" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-19" value="验证权限" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="393" y="179" />
-              <mxPoint x="393" y="209" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-20" value="获取房间和楼栋信息" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-2">
           <mxGeometry relative="1" as="geometry">
