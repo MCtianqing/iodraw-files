@@ -44,15 +44,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-20" value="获取房间和楼栋信息" style="curved=1;endArrow=none;rounded=0;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-2">
-          <mxGeometry x="-0.0298" y="47" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="393" y="307" />
-              <mxPoint x="393" y="337" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-21" value="查询空闲房间" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
