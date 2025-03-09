@@ -1,18 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="dRLpPXwDdnReduv5Mdpb">
-    <mxGraphModel dx="1835" dy="1325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1049" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DVd5G_SXdGHK9kXevOdZ-23" value="系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1138" y="370" width="1569" height="286" as="geometry" />
-        </mxCell>
-        <mxCell id="DVd5G_SXdGHK9kXevOdZ-24" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="440" width="1068" height="231" as="geometry" />
-        </mxCell>
-        <mxCell id="DVd5G_SXdGHK9kXevOdZ-25" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="45" y="531" width="92" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="DVd5G_SXdGHK9kXevOdZ-26" value="进行宿舍的分配" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="187" y="475" width="161" height="161" as="geometry" />
         </mxCell>
@@ -46,9 +37,10 @@
         <mxCell id="DVd5G_SXdGHK9kXevOdZ-36" value="系统运行中" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2541" y="531" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="DVd5G_SXdGHK9kXevOdZ-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="DVd5G_SXdGHK9kXevOdZ-25" target="DVd5G_SXdGHK9kXevOdZ-26">
+        <mxCell id="DVd5G_SXdGHK9kXevOdZ-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" target="DVd5G_SXdGHK9kXevOdZ-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="137" y="555.01" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DVd5G_SXdGHK9kXevOdZ-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="DVd5G_SXdGHK9kXevOdZ-26" target="DVd5G_SXdGHK9kXevOdZ-27">
