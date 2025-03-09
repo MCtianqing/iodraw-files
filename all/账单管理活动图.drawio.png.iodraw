@@ -76,11 +76,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DVd5G_SXdGHK9kXevOdZ-16" value="分析账单支付情况" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;strokeWidth=1;fontSize=15;" edge="1" parent="1" source="DVd5G_SXdGHK9kXevOdZ-4" target="DVd5G_SXdGHK9kXevOdZ-4">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0141" y="80" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="940" y="779" />
               <mxPoint x="940" y="809" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DVd5G_SXdGHK9kXevOdZ-17" value="推送本人账单列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;strokeWidth=1;fontSize=15;" edge="1" parent="1" source="DVd5G_SXdGHK9kXevOdZ-1" target="DVd5G_SXdGHK9kXevOdZ-6">
