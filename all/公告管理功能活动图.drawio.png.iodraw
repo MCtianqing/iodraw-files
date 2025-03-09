@@ -135,13 +135,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-31" value="自动计算房间人数" style="curved=1;endArrow=none;rounded=0;fontSize=15;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0074" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="393" y="788" />
               <mxPoint x="393" y="818" />
             </Array>
             <mxPoint x="340.83333333333326" y="788.0000000000002" as="sourcePoint" />
             <mxPoint x="340.83333333333326" y="818.0000000000002" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-32" value="自动计算楼栋人数" style="curved=1;endArrow=none;rounded=0;fontSize=15;" edge="1" parent="1">
