@@ -222,6 +222,15 @@
             <mxPoint x="90.00333333333326" y="1765" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-49" value="请求管理房间信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235.17" y="1330" />
+            </Array>
+            <mxPoint x="100.00333333333326" y="1330" as="sourcePoint" />
+            <mxPoint x="347.67000000000024" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
