@@ -8,13 +8,13 @@
           <mxGeometry x="20" y="20" width="150" height="1900" as="geometry" />
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-2" value="系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="267" y="20" width="150" height="1900" as="geometry" />
+          <mxGeometry x="267" y="20" width="150" height="1810" as="geometry" />
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-3" value="宿舍房间" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="467" y="20" width="150" height="1900" as="geometry" />
+          <mxGeometry x="467" y="20" width="150" height="1810" as="geometry" />
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-4" value="宿舍楼栋" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="667" y="20" width="150" height="1900" as="geometry" />
+          <mxGeometry x="667" y="20" width="150" height="1810" as="geometry" />
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-5" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="331" y="1041" width="222" height="98" as="geometry" />
@@ -198,28 +198,28 @@
         <mxCell id="wXkwURRwx5KZRuwk7NXP-45" value="修改楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="548.17" y="1721" />
+              <mxPoint x="548.17" y="1640" />
             </Array>
-            <mxPoint x="337.0033333333333" y="1721" as="sourcePoint" />
-            <mxPoint x="737.6700000000002" y="1721" as="targetPoint" />
+            <mxPoint x="337.0033333333333" y="1640" as="sourcePoint" />
+            <mxPoint x="737.6700000000002" y="1640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-46" value="返回修改结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="548.17" y="1773" />
+              <mxPoint x="548.17" y="1692" />
             </Array>
-            <mxPoint x="737.6700000000002" y="1773" as="sourcePoint" />
-            <mxPoint x="337.0033333333333" y="1773" as="targetPoint" />
+            <mxPoint x="737.6700000000002" y="1692" as="sourcePoint" />
+            <mxPoint x="337.0033333333333" y="1692" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-47" value="修改结果提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="225.17" y="1825" />
+              <mxPoint x="225.17" y="1744" />
             </Array>
-            <mxPoint x="337.67000000000024" y="1825" as="sourcePoint" />
-            <mxPoint x="90.00333333333326" y="1825" as="targetPoint" />
+            <mxPoint x="337.67000000000024" y="1744" as="sourcePoint" />
+            <mxPoint x="90.00333333333326" y="1744" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-49" value="请求管理房间信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1">
