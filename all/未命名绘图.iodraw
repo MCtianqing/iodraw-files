@@ -4,105 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-1" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="983" y="242" width="412" height="119" as="geometry" />
+        <mxCell id="XCe4_-jqRI44bVvUtrAl-23" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-2" value="住客" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="546" y="20" width="849" height="202" as="geometry" />
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-3" value="系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="64" width="476" height="277" as="geometry" />
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-4" value="系统定时生成账单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="45" y="173" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-5" value="添加到数据库记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="283" y="173" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-6" value="查看自身费用记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="571" y="90" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-7" value="未支付?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="810" y="63" width="102" height="102" as="geometry" />
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-8" value="在线支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1056" y="125" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1278" y="90" width="92" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-10" value="查看所有住客费用记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1008" y="277" width="220" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-11" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1278" y="277" width="92" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-12" value="流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1445" y="173" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="XCe4_-jqRI44bVvUtrAl-4" target="XCe4_-jqRI44bVvUtrAl-5">
+        <mxCell id="XCe4_-jqRI44bVvUtrAl-24" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="XCe4_-jqRI44bVvUtrAl-23" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=-0.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="XCe4_-jqRI44bVvUtrAl-5" target="XCe4_-jqRI44bVvUtrAl-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="496" y="114" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="XCe4_-jqRI44bVvUtrAl-6" target="XCe4_-jqRI44bVvUtrAl-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-16" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="XCe4_-jqRI44bVvUtrAl-7" target="XCe4_-jqRI44bVvUtrAl-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="947" y="149" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-17" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.3;entryX=0;entryY=0.02;rounded=0;" edge="1" parent="1" source="XCe4_-jqRI44bVvUtrAl-7" target="XCe4_-jqRI44bVvUtrAl-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="947" y="79" />
-              <mxPoint x="1253" y="79" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.96;rounded=0;" edge="1" parent="1" source="XCe4_-jqRI44bVvUtrAl-8" target="XCe4_-jqRI44bVvUtrAl-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1253" y="149" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0.98;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="XCe4_-jqRI44bVvUtrAl-5" target="XCe4_-jqRI44bVvUtrAl-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="496" y="301" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="XCe4_-jqRI44bVvUtrAl-10" target="XCe4_-jqRI44bVvUtrAl-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.3;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XCe4_-jqRI44bVvUtrAl-9" target="XCe4_-jqRI44bVvUtrAl-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1420" y="114" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.34;entryY=0.98;rounded=0;" edge="1" parent="1" source="XCe4_-jqRI44bVvUtrAl-11" target="XCe4_-jqRI44bVvUtrAl-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1420" y="301" />
-            </Array>
+            <mxPoint x="65" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
