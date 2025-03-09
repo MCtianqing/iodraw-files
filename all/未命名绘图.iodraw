@@ -31,7 +31,7 @@
         <mxCell id="XCe4_-jqRI44bVvUtrAl-37" value="发送数据库，返回结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="230" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XCe4_-jqRI44bVvUtrAl-38" value="发送数据库，返回结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XCe4_-jqRI44bVvUtrAl-38" value="取消支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="300" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
