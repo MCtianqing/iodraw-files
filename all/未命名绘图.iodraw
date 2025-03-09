@@ -20,10 +20,10 @@
           <mxGeometry x="180" y="150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XCe4_-jqRI44bVvUtrAl-33" value="管理员查看账单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="235" width="100" height="50" as="geometry" />
+          <mxGeometry x="180" y="225" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XCe4_-jqRI44bVvUtrAl-34" value="住客支付或查看账单记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="350" width="100" height="50" as="geometry" />
+          <mxGeometry x="180" y="300" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
