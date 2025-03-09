@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-126" value="用户查看公告" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-126" value="管理房间信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="250" y="290" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="L1QXt7QglfFbmlCyxUpu-149" target="L1QXt7QglfFbmlCyxUpu-155" edge="1">
@@ -34,7 +34,7 @@
             <mxPoint x="260" y="204" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-162" value="更新数据库返回数据" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-162" value="发送到数据库并返回结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="470" y="170" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-163" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="L1QXt7QglfFbmlCyxUpu-157" target="L1QXt7QglfFbmlCyxUpu-162" edge="1">
