@@ -187,32 +187,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-45" value="修改楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-4">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-45" value="修改楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="552" y="2073" />
+              <mxPoint x="548.17" y="1940" />
             </Array>
+            <mxPoint x="337.0033333333333" y="1940" as="sourcePoint" />
+            <mxPoint x="737.6700000000002" y="1940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-46" value="返回修改结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-4" target="wXkwURRwx5KZRuwk7NXP-2">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-46" value="返回修改结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="552" y="2125" />
+              <mxPoint x="548.17" y="1992" />
             </Array>
+            <mxPoint x="737.6700000000002" y="1992" as="sourcePoint" />
+            <mxPoint x="337.0033333333333" y="1992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-47" value="修改结果提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-47" value="修改结果提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="229" y="2177" />
+              <mxPoint x="225.17" y="2044" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-48" value="提示权限不足" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="229" y="2275" />
-            </Array>
+            <mxPoint x="337.67000000000024" y="2044" as="sourcePoint" />
+            <mxPoint x="90.00333333333326" y="2044" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
