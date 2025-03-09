@@ -28,24 +28,6 @@
         <mxCell id="wXkwURRwx5KZRuwk7NXP-8" value="[楼栋人数达到上限]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="wXkwURRwx5KZRuwk7NXP-7">
           <mxGeometry x="30" width="392" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-9" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="84" y="229" width="679" height="1178" as="geometry" />
-        </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-10" value="[权限通过]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="wXkwURRwx5KZRuwk7NXP-9">
-          <mxGeometry x="30" width="649" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-11" value="[权限不足]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="wXkwURRwx5KZRuwk7NXP-9">
-          <mxGeometry y="1085" width="679" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-12" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="84" y="1551" width="469" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-13" value="[权限通过]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="wXkwURRwx5KZRuwk7NXP-12">
-          <mxGeometry x="30" width="439" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-14" value="[权限不足]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="wXkwURRwx5KZRuwk7NXP-12">
-          <mxGeometry y="207" width="469" height="4" as="geometry" />
-        </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-15" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
           <mxGeometry x="84" y="1995" width="669" height="300" as="geometry" />
         </mxCell>
