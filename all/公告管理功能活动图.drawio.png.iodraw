@@ -16,26 +16,26 @@
         <mxCell id="wXkwURRwx5KZRuwk7NXP-4" value="宿舍楼栋" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="667" y="20" width="150" height="2370" as="geometry" />
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-5" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-5" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="331" y="1041" width="222" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-6" value="[房间人数达到上限]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="wXkwURRwx5KZRuwk7NXP-5">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-6" value="[房间人数达到上限]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=15;" vertex="1" parent="wXkwURRwx5KZRuwk7NXP-5">
           <mxGeometry x="30" width="192" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-7" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-7" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="331" y="1149" width="422" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-8" value="[楼栋人数达到上限]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="wXkwURRwx5KZRuwk7NXP-7">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-8" value="[楼栋人数达到上限]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=15;" vertex="1" parent="wXkwURRwx5KZRuwk7NXP-7">
           <mxGeometry x="30" width="392" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-18" value="分配宿舍" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-1" target="wXkwURRwx5KZRuwk7NXP-2">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-18" value="分配宿舍" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-1" target="wXkwURRwx5KZRuwk7NXP-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="229" y="127" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-19" value="验证信息是否充分" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-2">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-19" value="验证信息是否充分" style="curved=1;endArrow=none;rounded=0;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-2">
           <mxGeometry x="-0.0596" y="57" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="393" y="179" />
@@ -44,7 +44,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-20" value="获取房间和楼栋信息" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-2">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-20" value="获取房间和楼栋信息" style="curved=1;endArrow=none;rounded=0;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="393" y="307" />
@@ -52,77 +52,77 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-21" value="查询空闲房间" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-3">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-21" value="查询空闲房间" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="452" y="389" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-22" value="返回空闲房间列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-3" target="wXkwURRwx5KZRuwk7NXP-2">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-22" value="返回空闲房间列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-3" target="wXkwURRwx5KZRuwk7NXP-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="452" y="441" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-23" value="查询楼栋剩余容量" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-4">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-23" value="查询楼栋剩余容量" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="552" y="493" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-24" value="返回楼栋剩余容量" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-4" target="wXkwURRwx5KZRuwk7NXP-2">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-24" value="返回楼栋剩余容量" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-4" target="wXkwURRwx5KZRuwk7NXP-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="552" y="545" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-25" value="展示空闲房间和楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-25" value="展示空闲房间和楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="229" y="597" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-26" value="选择房间和学生" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-1" target="wXkwURRwx5KZRuwk7NXP-2">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-26" value="选择房间和学生" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-1" target="wXkwURRwx5KZRuwk7NXP-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="229" y="649" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-27" value="分配房间" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-3">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-27" value="分配房间" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="452" y="701" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-28" value="分配结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-3" target="wXkwURRwx5KZRuwk7NXP-2">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-28" value="分配结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-3" target="wXkwURRwx5KZRuwk7NXP-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="452" y="753" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-29" value="更新楼栋人数" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-4">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-29" value="更新楼栋人数" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="552" y="805" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-30" value="更新结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-4" target="wXkwURRwx5KZRuwk7NXP-2">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-30" value="更新结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-4" target="wXkwURRwx5KZRuwk7NXP-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="552" y="857" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-31" value="自动计算房间人数" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-2">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-31" value="自动计算房间人数" style="curved=1;endArrow=none;rounded=0;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="393" y="909" />
@@ -130,7 +130,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-32" value="自动计算楼栋人数" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-2">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-32" value="自动计算楼栋人数" style="curved=1;endArrow=none;rounded=0;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="393" y="991" />
@@ -138,28 +138,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-33" value="标记房间已满" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-3">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-33" value="标记房间已满" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="452" y="1119" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-34" value="标记楼栋已满" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-4">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-34" value="标记楼栋已满" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="552" y="1227" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-35" value="分配成功提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-35" value="分配成功提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="229" y="1289" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-39" value="修改房间信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-39" value="修改房间信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="452" y="1410" />
@@ -168,7 +168,7 @@
             <mxPoint x="541.5000000000002" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-40" value="返回修改结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-40" value="返回修改结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="452" y="1462" />
@@ -177,7 +177,7 @@
             <mxPoint x="340.83333333333326" y="1462" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-41" value="修改结果提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-41" value="修改结果提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="229" y="1514" />
@@ -186,7 +186,7 @@
             <mxPoint x="93.83333333333326" y="1514" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-43" value="请求管理楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-43" value="请求管理楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="229" y="1674" />
@@ -195,7 +195,7 @@
             <mxPoint x="341.5000000000002" y="1674" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-45" value="修改楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-45" value="修改楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="548.17" y="1721" />
@@ -204,7 +204,7 @@
             <mxPoint x="737.6700000000002" y="1721" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-46" value="返回修改结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-46" value="返回修改结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="548.17" y="1773" />
@@ -213,7 +213,7 @@
             <mxPoint x="337.0033333333333" y="1773" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-47" value="修改结果提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-47" value="修改结果提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="225.17" y="1825" />
@@ -222,7 +222,7 @@
             <mxPoint x="90.00333333333326" y="1825" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-49" value="请求管理房间信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-49" value="请求管理房间信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="235.17" y="1360" />
