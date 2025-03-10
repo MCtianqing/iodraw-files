@@ -19,6 +19,9 @@
         <mxCell id="idWxsxSYRqZqCEmnIeme-6" value="登记游客访问" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="75" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="idWxsxSYRqZqCEmnIeme-8" value="查看游客访问信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="340" width="75" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
