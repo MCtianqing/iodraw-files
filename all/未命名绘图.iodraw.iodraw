@@ -52,7 +52,7 @@
             <mxPoint x="590" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="idWxsxSYRqZqCEmnIeme-14" value="登记游客访问" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="idWxsxSYRqZqCEmnIeme-14" value="筛选访客名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="280" width="75" height="50" as="geometry" />
         </mxCell>
       </root>
