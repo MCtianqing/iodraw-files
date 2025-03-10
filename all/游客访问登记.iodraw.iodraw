@@ -4,62 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="idWxsxSYRqZqCEmnIeme-2" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="230" y="230" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="idWxsxSYRqZqCEmnIeme-3" value="住客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="230" y="340" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="idWxsxSYRqZqCEmnIeme-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="230" width="380" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="idWxsxSYRqZqCEmnIeme-5" value="访客管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="330" y="230" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="idWxsxSYRqZqCEmnIeme-6" value="登记游客访问" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="270" width="75" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="idWxsxSYRqZqCEmnIeme-8" value="查看游客访问信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="345" width="75" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="idWxsxSYRqZqCEmnIeme-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="idWxsxSYRqZqCEmnIeme-2" target="idWxsxSYRqZqCEmnIeme-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="360" as="sourcePoint" />
-            <mxPoint x="290" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="idWxsxSYRqZqCEmnIeme-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="idWxsxSYRqZqCEmnIeme-3" target="idWxsxSYRqZqCEmnIeme-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="420" as="sourcePoint" />
-            <mxPoint x="300" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="idWxsxSYRqZqCEmnIeme-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" target="idWxsxSYRqZqCEmnIeme-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="273" as="sourcePoint" />
-            <mxPoint x="410" y="305" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="idWxsxSYRqZqCEmnIeme-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="idWxsxSYRqZqCEmnIeme-3" target="idWxsxSYRqZqCEmnIeme-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="283" as="sourcePoint" />
-            <mxPoint x="420" y="315" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="idWxsxSYRqZqCEmnIeme-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="idWxsxSYRqZqCEmnIeme-8" target="idWxsxSYRqZqCEmnIeme-14" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="400" as="sourcePoint" />
-            <mxPoint x="590" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="idWxsxSYRqZqCEmnIeme-15" value="&amp;lt;extends&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="idWxsxSYRqZqCEmnIeme-13" vertex="1" connectable="0">
-          <mxGeometry x="0.2192" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="idWxsxSYRqZqCEmnIeme-14" value="筛选访客名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="345" width="75" height="50" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
