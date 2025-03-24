@@ -148,7 +148,7 @@
         <mxCell id="a8PwCuptCqDw6LGnZmpZ-28" value="记录宿舍进出情况" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="242.5" y="280" width="35" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="a8PwCuptCqDw6LGnZmpZ-31" value="提交维修请求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="a8PwCuptCqDw6LGnZmpZ-31" value="维修记录查看" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="280" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="a8PwCuptCqDw6LGnZmpZ-32" value="审核维修请求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
