@@ -163,7 +163,7 @@
         <mxCell id="a8PwCuptCqDw6LGnZmpZ-34" value="查看通知" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="280" width="20" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="a8PwCuptCqDw6LGnZmpZ-35" value="处理费用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="a8PwCuptCqDw6LGnZmpZ-35" value="账单生成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="280" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="a8PwCuptCqDw6LGnZmpZ-36" value="查询费用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
