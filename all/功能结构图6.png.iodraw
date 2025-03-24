@@ -84,9 +84,6 @@
         <mxCell id="a8PwCuptCqDw6LGnZmpZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="a8PwCuptCqDw6LGnZmpZ-3" target="a8PwCuptCqDw6LGnZmpZ-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xic3W9pKxa99Dwn2Xu2S-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="a8PwCuptCqDw6LGnZmpZ-3" target="Xic3W9pKxa99Dwn2Xu2S-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="a8PwCuptCqDw6LGnZmpZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="a8PwCuptCqDw6LGnZmpZ-4" target="a8PwCuptCqDw6LGnZmpZ-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -161,9 +158,6 @@
         <mxCell id="a8PwCuptCqDw6LGnZmpZ-36" value="查询费用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="280" width="20" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Xic3W9pKxa99Dwn2Xu2S-1" value="换宿申请" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="280" width="20" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="xVa82z2fMrEwjULXXY11-1" value="退宿申请" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="280" width="20" height="90" as="geometry" />
         </mxCell>
@@ -181,6 +175,15 @@
         </mxCell>
         <mxCell id="PJPX1y344O2LHlGh0Wch-10" value="支付费用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="280" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ST1-otBAgLKqfTBBQWBC-2" value="换宿申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="280" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ST1-otBAgLKqfTBBQWBC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="260" as="sourcePoint" />
+            <mxPoint x="355" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
