@@ -104,8 +104,13 @@
             <mxPoint x="560" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ST1-otBAgLKqfTBBQWBC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a8PwCuptCqDw6LGnZmpZ-6" target="ST1-otBAgLKqfTBBQWBC-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ST1-otBAgLKqfTBBQWBC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="a8PwCuptCqDw6LGnZmpZ-6" target="ST1-otBAgLKqfTBBQWBC-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="260" />
+              <mxPoint x="590" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="a8PwCuptCqDw6LGnZmpZ-6" value="申请模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="190" width="80" height="40" as="geometry" />
