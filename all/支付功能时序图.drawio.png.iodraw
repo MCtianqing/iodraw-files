@@ -42,7 +42,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-107" value="登录成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;" parent="1" edge="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-107" value="5、登录成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="501" y="484" />
@@ -54,10 +54,10 @@
         <mxCell id="pKI87qLIwqpfpk5mgcb7-108" value="跳转回主菜单页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="224.93" y="620" />
+              <mxPoint x="224.93" y="770" />
             </Array>
-            <mxPoint x="334.43" y="620" as="sourcePoint" />
-            <mxPoint x="90.00142857142868" y="620" as="targetPoint" />
+            <mxPoint x="334.43" y="770" as="sourcePoint" />
+            <mxPoint x="90.00142857142868" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-109" value="标记订单为 &quot;已支付&quot;" style="curved=1;endArrow=block;rounded=0;fontSize=12;" parent="1" edge="1">
