@@ -14,7 +14,7 @@
           <mxGeometry x="70" y="107" width="10" height="62" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-84" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="pKI87qLIwqpfpk5mgcb7-82" vertex="1">
-          <mxGeometry x="70" y="263" width="10" height="52" as="geometry" />
+          <mxGeometry x="70" y="242" width="10" height="52" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-85" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="pKI87qLIwqpfpk5mgcb7-82" vertex="1">
           <mxGeometry x="70" y="583" width="10" height="52" as="geometry" />
@@ -58,7 +58,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-95" value="维修任务已分配" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-82" target="pKI87qLIwqpfpk5mgcb7-89" edge="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-95" value="5、维修任务信息给到维修人员" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-82" target="pKI87qLIwqpfpk5mgcb7-89" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="654" y="387" />
