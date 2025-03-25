@@ -45,11 +45,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-92" value="维修请求待分配" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-82" target="pKI87qLIwqpfpk5mgcb7-87" edge="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-92" value="维修请求待分配" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="554" y="231" />
             </Array>
+            <mxPoint x="421.0714285714282" y="230.9999999999999" as="sourcePoint" />
+            <mxPoint x="663" y="230.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-93" value="分配维修任务给维修人员" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-87" target="pKI87qLIwqpfpk5mgcb7-84" edge="1">
