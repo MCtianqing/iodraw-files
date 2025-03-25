@@ -92,18 +92,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d9Vwh7LBYczmYShw1qvo-4" value="2、检验权限: 允许全部操作" style="curved=1;endArrow=block;rounded=0;fontSize=16;" edge="1" parent="1">
-          <mxGeometry x="-0.03" y="80" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="450" y="890" />
-              <mxPoint x="470" y="877" />
-              <mxPoint x="470" y="907" />
-            </Array>
-            <mxPoint as="offset" />
-            <mxPoint x="418" y="877" as="sourcePoint" />
-            <mxPoint x="418" y="907" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
