@@ -16,11 +16,27 @@
         <mxCell id="pKI87qLIwqpfpk5mgcb7-84" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="pKI87qLIwqpfpk5mgcb7-82" vertex="1">
           <mxGeometry x="70" y="242" width="10" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-85" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="pKI87qLIwqpfpk5mgcb7-82" vertex="1">
-          <mxGeometry x="70" y="583" width="10" height="52" as="geometry" />
-        </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-86" value="管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="593" y="20" width="150" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-85" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="pKI87qLIwqpfpk5mgcb7-86" vertex="1">
+          <mxGeometry x="-176" y="520" width="10" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-98" value="7、标记任务为&quot;已完成&quot;" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="pKI87qLIwqpfpk5mgcb7-86" target="pKI87qLIwqpfpk5mgcb7-85" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="62" y="520" />
+            </Array>
+            <mxPoint x="270" y="520" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-99" value="任务状态已更新" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;" parent="pKI87qLIwqpfpk5mgcb7-86" source="pKI87qLIwqpfpk5mgcb7-85" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="61" y="572" />
+            </Array>
+            <mxPoint x="270" y="572" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-88" value="维修人员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="793" y="20" width="150" height="700" as="geometry" />
@@ -72,28 +88,6 @@
               <mxPoint x="923" y="469" />
             </Array>
             <mxPoint x="-2" y="-9" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-97" value="解决问题" style="curved=1;endArrow=block;rounded=0;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-89" target="pKI87qLIwqpfpk5mgcb7-89" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="923" y="521" />
-              <mxPoint x="923" y="551" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-98" value="7、标记任务为&quot;已完成&quot;" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-89" target="pKI87qLIwqpfpk5mgcb7-85" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="655" y="603" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-99" value="任务状态已更新" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-85" target="pKI87qLIwqpfpk5mgcb7-89" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="654" y="655" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-VlEbfh5IG5fYtX199Pu-4" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" edge="1" parent="1" target="pKI87qLIwqpfpk5mgcb7-87">
