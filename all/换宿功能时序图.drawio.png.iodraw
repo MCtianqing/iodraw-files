@@ -29,7 +29,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-42" value="3、提交换宿请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=16;" parent="1" source="L1QXt7QglfFbmlCyxUpu-34" target="L1QXt7QglfFbmlCyxUpu-35" edge="1">
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-42" value="3、提交换宿请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;fontSize=16;endFill=1;" parent="1" source="L1QXt7QglfFbmlCyxUpu-34" target="L1QXt7QglfFbmlCyxUpu-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1373" y="307" />
