@@ -98,7 +98,7 @@
             <mxPoint x="90.00142857142868" y="513.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GQPlhL5_fcvZddz6zmJV-3" value="1、提交支付请求 " style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=12;" edge="1" parent="1" target="pKI87qLIwqpfpk5mgcb7-101">
+        <mxCell id="GQPlhL5_fcvZddz6zmJV-3" value="7、输入支付密码 " style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=12;" edge="1" parent="1" target="pKI87qLIwqpfpk5mgcb7-101">
           <mxGeometry x="0.0006" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="222" y="570" />
