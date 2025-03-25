@@ -36,7 +36,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-45" value="4、返回换宿成功信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" parent="1" edge="1">
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-45" value="4、返回换宿成功信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" parent="1" target="L1QXt7QglfFbmlCyxUpu-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1375" y="369" />
@@ -51,7 +51,7 @@
               <mxPoint x="1096.5" y="410" />
             </Array>
             <mxPoint x="1210" y="410" as="sourcePoint" />
-            <mxPoint x="951" y="410" as="targetPoint" />
+            <mxPoint x="960" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
