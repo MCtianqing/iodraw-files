@@ -71,7 +71,7 @@
             <mxPoint x="93.5" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-62" value="身份验证: 用户" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" parent="1" source="L1QXt7QglfFbmlCyxUpu-47" target="L1QXt7QglfFbmlCyxUpu-48" edge="1">
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-62" value="6、发起查询信息/修改个人信息请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" parent="1" source="L1QXt7QglfFbmlCyxUpu-47" target="L1QXt7QglfFbmlCyxUpu-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="261" y="1151" />
