@@ -26,7 +26,7 @@
           <mxGeometry x="30" width="586" height="20" as="geometry" />
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-55" value="[用户]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;fontSize=16;" parent="L1QXt7QglfFbmlCyxUpu-53" vertex="1">
-          <mxGeometry y="341" width="616" height="4" as="geometry" />
+          <mxGeometry y="313" width="616" height="4" as="geometry" />
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-56" value="1、发起请求 (&quot;增/删/改/查/条件查询&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" parent="1" source="L1QXt7QglfFbmlCyxUpu-47" target="L1QXt7QglfFbmlCyxUpu-48" edge="1">
           <mxGeometry relative="1" as="geometry">
