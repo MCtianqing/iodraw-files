@@ -48,10 +48,10 @@
         <mxCell id="L1QXt7QglfFbmlCyxUpu-46" value="5、成功换宿" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;fontSize=16;startArrow=none;startFill=0;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1079" y="410" />
+              <mxPoint x="1096.5" y="410" />
             </Array>
-            <mxPoint x="1262.5" y="410" as="sourcePoint" />
-            <mxPoint x="933.5" y="410" as="targetPoint" />
+            <mxPoint x="1210" y="410" as="sourcePoint" />
+            <mxPoint x="951" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
