@@ -98,6 +98,16 @@
             <mxPoint x="90.00142857142868" y="513.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GQPlhL5_fcvZddz6zmJV-3" value="1、提交支付请求 " style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=12;" edge="1" parent="1">
+          <mxGeometry x="0.0006" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="236" y="287" />
+            </Array>
+            <mxPoint as="offset" />
+            <mxPoint x="104" y="287" as="sourcePoint" />
+            <mxPoint x="349" y="287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
