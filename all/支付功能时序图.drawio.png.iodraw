@@ -42,11 +42,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-107" value="支付完成" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-102" target="pKI87qLIwqpfpk5mgcb7-101" edge="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-107" value="支付完成" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="501" y="485" />
+              <mxPoint x="501" y="484" />
             </Array>
+            <mxPoint x="638.5" y="484" as="sourcePoint" />
+            <mxPoint x="338.07142857142867" y="484" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-108" value="跳转回主菜单页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-101" target="pKI87qLIwqpfpk5mgcb7-100" edge="1">
