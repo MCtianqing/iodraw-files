@@ -71,9 +71,11 @@
             <mxPoint x="-2" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-VlEbfh5IG5fYtX199Pu-4" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" edge="1" parent="1" target="pKI87qLIwqpfpk5mgcb7-87">
+        <mxCell id="-VlEbfh5IG5fYtX199Pu-4" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" edge="1" parent="1" source="pKI87qLIwqpfpk5mgcb7-82" target="pKI87qLIwqpfpk5mgcb7-87">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="390" y="232" />
+            </Array>
             <mxPoint x="421.0714285714282" y="230.9999999999999" as="sourcePoint" />
             <mxPoint x="663" y="230.9999999999999" as="targetPoint" />
           </mxGeometry>
