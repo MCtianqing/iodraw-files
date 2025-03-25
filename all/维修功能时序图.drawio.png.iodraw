@@ -65,13 +65,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-96" value="接收并解决问题" style="curved=1;endArrow=block;rounded=0;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-89" target="pKI87qLIwqpfpk5mgcb7-89" edge="1">
-          <mxGeometry x="0.004" relative="1" as="geometry">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-96" value="6、接收并解决问题" style="curved=1;endArrow=block;rounded=0;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-89" target="pKI87qLIwqpfpk5mgcb7-89" edge="1">
+          <mxGeometry x="-0.2308" y="19" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="923" y="439" />
               <mxPoint x="923" y="469" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-97" value="解决问题" style="curved=1;endArrow=block;rounded=0;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-89" target="pKI87qLIwqpfpk5mgcb7-89" edge="1">
