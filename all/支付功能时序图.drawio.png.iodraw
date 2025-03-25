@@ -63,11 +63,11 @@
         <mxCell id="pKI87qLIwqpfpk5mgcb7-109" value="标记订单为 &quot;已支付&quot;" style="curved=1;endArrow=block;rounded=0;fontSize=12;" parent="1" edge="1">
           <mxGeometry x="-0.0598" y="70" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="639" />
-              <mxPoint x="390" y="669" />
+              <mxPoint x="390" y="670" />
+              <mxPoint x="390" y="700" />
             </Array>
-            <mxPoint x="338.07142857142867" y="639" as="sourcePoint" />
-            <mxPoint x="338.07142857142867" y="669" as="targetPoint" />
+            <mxPoint x="338.07142857142867" y="670" as="sourcePoint" />
+            <mxPoint x="338.07142857142867" y="700" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
