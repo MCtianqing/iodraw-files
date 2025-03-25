@@ -13,7 +13,7 @@
         <mxCell id="pKI87qLIwqpfpk5mgcb7-102" value="支付宝" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="564" y="170" width="150" height="688" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-103" value="提交支付请求 (账单页面)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-100" target="pKI87qLIwqpfpk5mgcb7-101" edge="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-103" value="1、提交支付请求 " style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-100" target="pKI87qLIwqpfpk5mgcb7-101" edge="1">
           <mxGeometry x="0.0006" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="226" y="277" />
