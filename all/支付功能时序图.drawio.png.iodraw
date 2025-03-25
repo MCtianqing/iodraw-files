@@ -108,6 +108,15 @@
             <mxPoint x="335" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GQPlhL5_fcvZddz6zmJV-4" value="2、接入支付宝API (支付宝沙箱支付)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="600" />
+            </Array>
+            <mxPoint x="330" y="600" as="sourcePoint" />
+            <mxPoint x="631" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
