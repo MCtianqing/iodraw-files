@@ -28,14 +28,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-105" value="返回支付宝页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-102" target="pKI87qLIwqpfpk5mgcb7-100" edge="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-105" value="3、返回支付宝页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;dashed=1;" parent="1" source="pKI87qLIwqpfpk5mgcb7-102" target="pKI87qLIwqpfpk5mgcb7-100" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="379" y="381" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-106" value="确认支付" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-100" target="pKI87qLIwqpfpk5mgcb7-102" edge="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-106" value="4、输入支付宝账号密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-100" target="pKI87qLIwqpfpk5mgcb7-102" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="376" y="433" />
