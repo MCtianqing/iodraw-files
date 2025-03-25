@@ -81,6 +81,11 @@
             <mxPoint x="-17" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xyW_Ici8cIgF7rGuvYSn-17" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="459.77605953547845" y="219.82800405913645" as="geometry">
+            <mxPoint x="10" y="70" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
