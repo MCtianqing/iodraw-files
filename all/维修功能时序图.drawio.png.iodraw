@@ -31,7 +31,7 @@
         <mxCell id="pKI87qLIwqpfpk5mgcb7-89" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="pKI87qLIwqpfpk5mgcb7-88" vertex="1">
           <mxGeometry x="70" y="367" width="10" height="278" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-90" value="1、提交维修请求&#xa;(问题描述, 房间号等)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-81" target="pKI87qLIwqpfpk5mgcb7-83" edge="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-90" value="1、提交维修请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-81" target="pKI87qLIwqpfpk5mgcb7-83" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="267" y="127" />
