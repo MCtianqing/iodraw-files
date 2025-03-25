@@ -36,13 +36,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-45" value="换宿成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" parent="1" edge="1">
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-45" value="4、返回换宿成功信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1375" y="370" />
+              <mxPoint x="1375" y="369" />
             </Array>
-            <mxPoint x="1462.5" y="370" as="sourcePoint" />
-            <mxPoint x="1261.5" y="370" as="targetPoint" />
+            <mxPoint x="1462.5" y="369" as="sourcePoint" />
+            <mxPoint x="1261.5" y="369" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-46" value="取消换宿请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=16;" parent="1" source="L1QXt7QglfFbmlCyxUpu-34" target="L1QXt7QglfFbmlCyxUpu-33" edge="1">
