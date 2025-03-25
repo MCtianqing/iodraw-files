@@ -32,6 +32,7 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="280" as="sourcePoint" />
             <mxPoint x="140" y="340" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RLhl6Q8psflOe4cfVQvL-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" parent="1" source="RLhl6Q8psflOe4cfVQvL-18" target="RLhl6Q8psflOe4cfVQvL-19" edge="1">
