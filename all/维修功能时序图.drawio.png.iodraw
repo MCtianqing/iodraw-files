@@ -45,7 +45,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-92" value="维修请求待分配" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" edge="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-92" value="3、维修请求发送给管理员" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="554" y="231" />
