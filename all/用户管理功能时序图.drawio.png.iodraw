@@ -35,18 +35,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-57" value="身份验证: 管理员" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" parent="1" source="L1QXt7QglfFbmlCyxUpu-47" target="L1QXt7QglfFbmlCyxUpu-48" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="261" y="815" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-58" value="检验权限: 允许全部操作" style="curved=1;endArrow=block;rounded=0;fontSize=14;" parent="1" source="L1QXt7QglfFbmlCyxUpu-48" target="L1QXt7QglfFbmlCyxUpu-48" edge="1">
           <mxGeometry x="-0.03" y="80" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="460" y="867" />
-              <mxPoint x="460" y="897" />
+              <mxPoint x="450" y="800" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
