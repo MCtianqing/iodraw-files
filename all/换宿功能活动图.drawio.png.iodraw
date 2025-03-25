@@ -19,8 +19,8 @@
         <mxCell id="xyW_Ici8cIgF7rGuvYSn-3" value="住客支付账单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="240" width="148" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="xyW_Ici8cIgF7rGuvYSn-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="40" width="80" height="80" as="geometry" />
+        <mxCell id="xyW_Ici8cIgF7rGuvYSn-5" value="支付结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="244.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
