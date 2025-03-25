@@ -40,6 +40,7 @@
             <Array as="points">
               <mxPoint x="460" y="867" />
               <mxPoint x="460" y="897" />
+              <mxPoint x="440" y="830" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
