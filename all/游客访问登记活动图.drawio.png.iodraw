@@ -13,9 +13,6 @@
         <mxCell id="RLhl6Q8psflOe4cfVQvL-20" value="更新数据库返回信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="390" y="190" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RLhl6Q8psflOe4cfVQvL-21" value="查看所有记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="510" y="235" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="RLhl6Q8psflOe4cfVQvL-22" value="用户查看公告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="225" y="280" width="90" height="40" as="geometry" />
         </mxCell>
@@ -39,18 +36,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RLhl6Q8psflOe4cfVQvL-29" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="670" y="285" width="30" height="30" as="geometry" />
+          <mxGeometry x="580" y="285" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RLhl6Q8psflOe4cfVQvL-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" parent="1" source="RLhl6Q8psflOe4cfVQvL-22" target="RLhl6Q8psflOe4cfVQvL-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="320" as="sourcePoint" />
             <mxPoint x="270" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RLhl6Q8psflOe4cfVQvL-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" parent="1" source="RLhl6Q8psflOe4cfVQvL-21" target="RLhl6Q8psflOe4cfVQvL-29" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="330" as="sourcePoint" />
-            <mxPoint x="280" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RLhl6Q8psflOe4cfVQvL-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" parent="1" source="RLhl6Q8psflOe4cfVQvL-20" target="RLhl6Q8psflOe4cfVQvL-29" edge="1">
