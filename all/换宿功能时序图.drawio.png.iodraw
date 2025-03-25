@@ -45,11 +45,13 @@
             <mxPoint x="1261.5" y="369" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-46" value="取消换宿请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=16;" parent="1" source="L1QXt7QglfFbmlCyxUpu-34" target="L1QXt7QglfFbmlCyxUpu-33" edge="1">
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-46" value="成功换宿" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=16;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1079" y="561" />
+              <mxPoint x="1079" y="410" />
             </Array>
+            <mxPoint x="1262.5" y="410" as="sourcePoint" />
+            <mxPoint x="933.5" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
