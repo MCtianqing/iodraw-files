@@ -118,13 +118,13 @@
             <mxPoint x="641" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GQPlhL5_fcvZddz6zmJV-5" value="5、登录成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;" edge="1" parent="1">
+        <mxCell id="GQPlhL5_fcvZddz6zmJV-5" value="9、支付成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="511" y="494" />
+              <mxPoint x="502.93" y="640" />
             </Array>
-            <mxPoint x="648.5" y="494" as="sourcePoint" />
-            <mxPoint x="348.07142857142867" y="494" as="targetPoint" />
+            <mxPoint x="640.43" y="640" as="sourcePoint" />
+            <mxPoint x="340.0014285714287" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
