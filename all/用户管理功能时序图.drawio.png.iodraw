@@ -63,10 +63,10 @@
         <mxCell id="L1QXt7QglfFbmlCyxUpu-61" value="5、显示数据结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="264" y="1030" />
+              <mxPoint x="264" y="1060" />
             </Array>
-            <mxPoint x="408.5" y="1030" as="sourcePoint" />
-            <mxPoint x="140" y="1030" as="targetPoint" />
+            <mxPoint x="408.5" y="1060" as="sourcePoint" />
+            <mxPoint x="140" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-62" value="6、发起查询信息/修改个人信息请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" parent="1" edge="1">
@@ -96,7 +96,7 @@
             <mxPoint x="407.5" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-66" value="9、显示结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" parent="1" edge="1">
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-66" value="9、显示结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" parent="1" target="L1QXt7QglfFbmlCyxUpu-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="264" y="1330" />
