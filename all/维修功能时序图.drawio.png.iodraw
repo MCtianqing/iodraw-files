@@ -22,6 +22,9 @@
         <mxCell id="pKI87qLIwqpfpk5mgcb7-86" value="管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="593" y="20" width="150" height="700" as="geometry" />
         </mxCell>
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-87" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="pKI87qLIwqpfpk5mgcb7-86" vertex="1">
+          <mxGeometry x="70" y="211" width="10" height="114" as="geometry" />
+        </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-88" value="维修人员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="793" y="20" width="150" height="700" as="geometry" />
         </mxCell>
@@ -37,15 +40,11 @@
             <mxPoint x="413.93000000000023" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-92" value="2、维修请求待分配" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-87" edge="1">
-          <mxGeometry x="-0.1626" y="10" relative="1" as="geometry">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-92" value="维修请求待分配" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-82" target="pKI87qLIwqpfpk5mgcb7-87" edge="1">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="160" />
-              <mxPoint x="554" y="221" />
+              <mxPoint x="554" y="231" />
             </Array>
-            <mxPoint x="421.0714285714282" y="160" as="sourcePoint" />
-            <mxPoint x="668" y="220.9999999999999" as="targetPoint" />
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-93" value="分配维修任务给维修人员" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" parent="1" source="pKI87qLIwqpfpk5mgcb7-87" target="pKI87qLIwqpfpk5mgcb7-84" edge="1">
@@ -99,17 +98,6 @@
               <mxPoint x="654" y="655" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="-VlEbfh5IG5fYtX199Pu-2" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" edge="1" parent="1" target="pKI87qLIwqpfpk5mgcb7-87">
-          <mxGeometry x="-0.1626" y="10" relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="421.0714285714282" y="160" as="sourcePoint" />
-            <mxPoint x="668" y="220.9999999999999" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-87" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="1" vertex="1">
-          <mxGeometry x="663" y="140" width="10" height="114" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
