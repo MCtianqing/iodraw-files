@@ -80,13 +80,15 @@
             <mxPoint x="94.32352941176464" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-31" value="自动计算房间人数" style="curved=1;endArrow=none;rounded=0;fontSize=15;" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-2" edge="1">
-          <mxGeometry x="-0.225" y="114" relative="1" as="geometry">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-31" value="自动计算房间人数" style="curved=1;endArrow=none;rounded=0;fontSize=15;" parent="1" edge="1">
+          <mxGeometry x="-0.225" y="40" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="393" y="909" />
-              <mxPoint x="393" y="939" />
+              <mxPoint x="393" y="585" />
+              <mxPoint x="393" y="615" />
             </Array>
-            <mxPoint x="-57" y="-99" as="offset" />
+            <mxPoint x="341.32352941176464" y="585" as="sourcePoint" />
+            <mxPoint x="341.32352941176464" y="615" as="targetPoint" />
+            <mxPoint x="-3" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-32" value="自动计算楼栋人数" style="curved=1;endArrow=none;rounded=0;fontSize=15;" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-2" edge="1">
