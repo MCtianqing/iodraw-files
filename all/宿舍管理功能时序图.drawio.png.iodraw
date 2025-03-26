@@ -28,7 +28,7 @@
         <mxCell id="wXkwURRwx5KZRuwk7NXP-8" value="[楼栋人数达到上限]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=15;" parent="wXkwURRwx5KZRuwk7NXP-7" vertex="1">
           <mxGeometry x="30" width="392" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-18" value="1、分配宿舍" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;fontSize=15;endFill=1;" parent="1" source="wXkwURRwx5KZRuwk7NXP-1" target="wXkwURRwx5KZRuwk7NXP-2" edge="1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-18" value="1、分配宿舍" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=classic;fontSize=15;endFill=1;" parent="1" source="wXkwURRwx5KZRuwk7NXP-1" target="wXkwURRwx5KZRuwk7NXP-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="229" y="127" />
