@@ -53,7 +53,7 @@
             <mxPoint x="341.9135294117646" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-23" value="查询楼栋剩余容量" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" parent="1" edge="1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-23" value="6、查询楼栋剩余容量" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;fontSize=15;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="552.59" y="390" />
@@ -62,11 +62,13 @@
             <mxPoint x="742.09" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-24" value="返回楼栋剩余容量" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;fontSize=15;" parent="1" source="wXkwURRwx5KZRuwk7NXP-4" target="wXkwURRwx5KZRuwk7NXP-2" edge="1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-24" value="7、返回楼栋剩余容量" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;dashed=1;dashPattern=2 3;fontSize=15;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="552" y="545" />
+              <mxPoint x="563.5" y="460" />
             </Array>
+            <mxPoint x="753" y="459.9999999999998" as="sourcePoint" />
+            <mxPoint x="352.82352941176464" y="459.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-25" value="展示空闲房间和楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-1" edge="1">
