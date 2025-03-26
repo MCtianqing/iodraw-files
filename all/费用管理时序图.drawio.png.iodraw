@@ -79,11 +79,13 @@
             <mxPoint x="689.9999999999998" y="769.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DVd5G_SXdGHK9kXevOdZ-20" value="更新账单支付状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;strokeWidth=1;fontSize=14;" parent="1" source="DVd5G_SXdGHK9kXevOdZ-3" target="DVd5G_SXdGHK9kXevOdZ-9" edge="1">
+        <mxCell id="DVd5G_SXdGHK9kXevOdZ-20" value="更新账单支付状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;strokeWidth=1;fontSize=14;" parent="1" source="DVd5G_SXdGHK9kXevOdZ-1" target="DVd5G_SXdGHK9kXevOdZ-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="996" y="1047" />
+              <mxPoint x="996" y="810" />
             </Array>
+            <mxPoint x="689.9999999999998" y="810" as="sourcePoint" />
+            <mxPoint x="1280" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DVd5G_SXdGHK9kXevOdZ-21" value="更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;strokeWidth=1;fontSize=14;" parent="1" source="DVd5G_SXdGHK9kXevOdZ-7" target="DVd5G_SXdGHK9kXevOdZ-3" edge="1">
