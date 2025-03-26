@@ -91,15 +91,15 @@
             <mxPoint x="-3" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-32" value="自动计算楼栋人数" style="curved=1;endArrow=none;rounded=0;fontSize=15;" parent="1" edge="1">
-          <mxGeometry x="-0.225" y="98" relative="1" as="geometry">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-32" value="10、自动计算楼栋人数" style="curved=1;endArrow=classic;rounded=0;fontSize=15;endFill=1;" parent="1" edge="1">
+          <mxGeometry x="-0.225" y="51" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="393" y="690" />
               <mxPoint x="393" y="720" />
             </Array>
             <mxPoint x="341.32352941176464" y="690" as="sourcePoint" />
             <mxPoint x="341.32352941176464" y="720" as="targetPoint" />
-            <mxPoint x="-21" y="-61" as="offset" />
+            <mxPoint x="-4" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-33" value="标记房间已满" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-3" edge="1">
