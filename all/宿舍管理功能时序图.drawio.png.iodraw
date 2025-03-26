@@ -218,6 +218,15 @@
             <mxPoint x="347.67000000000024" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="p9WFAksV3p3YaiPV3WYy-2" value="4、选择房间并分配" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=classic;fontSize=15;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="280" />
+            </Array>
+            <mxPoint x="100" y="280" as="sourcePoint" />
+            <mxPoint x="348" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
