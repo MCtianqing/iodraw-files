@@ -73,19 +73,19 @@
         <mxCell id="DVd5G_SXdGHK9kXevOdZ-20" value="7、更新账单支付状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;strokeWidth=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="996" y="820" />
+              <mxPoint x="996" y="830" />
             </Array>
-            <mxPoint x="684.3235294117646" y="819.9999999999998" as="sourcePoint" />
-            <mxPoint x="1284.5" y="819.9999999999998" as="targetPoint" />
+            <mxPoint x="684.3235294117646" y="829.9999999999998" as="sourcePoint" />
+            <mxPoint x="1284.5" y="829.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DVd5G_SXdGHK9kXevOdZ-22" value="8、支付成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;strokeWidth=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="896.84" y="870" />
+              <mxPoint x="896.84" y="880" />
             </Array>
-            <mxPoint x="687.1635294117647" y="870" as="sourcePoint" />
-            <mxPoint x="1082.84" y="870" as="targetPoint" />
+            <mxPoint x="687.1635294117647" y="880" as="sourcePoint" />
+            <mxPoint x="1082.84" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
