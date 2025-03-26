@@ -149,7 +149,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-49" value="请求管理房间/楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;fontSize=15;endFill=1;" parent="1" edge="1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-49" value="请求管理房间/楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;fontSize=15;endFill=1;" parent="1" edge="1" target="wXkwURRwx5KZRuwk7NXP-2" source="wXkwURRwx5KZRuwk7NXP-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="235.17" y="968" />
