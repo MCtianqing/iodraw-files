@@ -80,7 +80,7 @@
             <mxPoint x="94.32352941176464" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-31" value="自动计算房间人数" style="curved=1;endArrow=none;rounded=0;fontSize=15;" parent="1" edge="1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-31" value="9、自动计算房间人数" style="curved=1;endArrow=classic;rounded=0;fontSize=15;endFill=1;" parent="1" edge="1">
           <mxGeometry x="-0.225" y="40" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="393" y="585" />
