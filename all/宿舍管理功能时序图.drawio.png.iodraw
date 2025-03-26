@@ -35,13 +35,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-21" value="查询空闲房间" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;fontSize=15;endFill=1;" parent="1" edge="1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-21" value="2、查询空闲房间" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;fontSize=15;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="452.59" y="160" />
+              <mxPoint x="452.59" y="170" />
             </Array>
-            <mxPoint x="341.9135294117646" y="160" as="sourcePoint" />
-            <mxPoint x="542.09" y="160" as="targetPoint" />
+            <mxPoint x="341.9135294117646" y="170" as="sourcePoint" />
+            <mxPoint x="542.09" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-22" value="返回空闲房间列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;fontSize=15;" parent="1" source="wXkwURRwx5KZRuwk7NXP-3" target="wXkwURRwx5KZRuwk7NXP-2" edge="1">
@@ -49,6 +49,11 @@
             <Array as="points">
               <mxPoint x="452" y="441" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9WFAksV3p3YaiPV3WYy-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wXkwURRwx5KZRuwk7NXP-22">
+          <mxGeometry x="-0.4937" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-23" value="查询楼栋剩余容量" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" parent="1" source="wXkwURRwx5KZRuwk7NXP-2" target="wXkwURRwx5KZRuwk7NXP-4" edge="1">
