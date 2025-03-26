@@ -23,7 +23,7 @@
           <mxGeometry x="30" width="192" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-7" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="331" y="1149" width="422" height="98" as="geometry" />
+          <mxGeometry x="331" y="870" width="422" height="98" as="geometry" />
         </mxCell>
         <mxCell id="wXkwURRwx5KZRuwk7NXP-8" value="[楼栋人数达到上限]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=15;" parent="wXkwURRwx5KZRuwk7NXP-7" vertex="1">
           <mxGeometry x="30" width="392" height="20" as="geometry" />
