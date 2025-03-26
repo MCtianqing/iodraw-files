@@ -22,9 +22,6 @@
         <mxCell id="DVd5G_SXdGHK9kXevOdZ-8" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=1;fontSize=14;" parent="DVd5G_SXdGHK9kXevOdZ-7" vertex="1">
           <mxGeometry x="70" y="107" width="10" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="DVd5G_SXdGHK9kXevOdZ-9" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=1;fontSize=14;" parent="DVd5G_SXdGHK9kXevOdZ-7" vertex="1">
-          <mxGeometry x="70" y="717" width="10" height="32" as="geometry" />
-        </mxCell>
         <mxCell id="DVd5G_SXdGHK9kXevOdZ-10" value="1、定时生成账单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;strokeWidth=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
