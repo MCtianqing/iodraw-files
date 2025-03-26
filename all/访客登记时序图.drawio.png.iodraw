@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RLhl6Q8psflOe4cfVQvL-36" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+        <mxCell id="RLhl6Q8psflOe4cfVQvL-36" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="20" y="110" width="150" height="840" as="geometry" />
         </mxCell>
         <mxCell id="RLhl6Q8psflOe4cfVQvL-37" value="系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
@@ -62,22 +62,6 @@
             <Array as="points">
               <mxPoint x="434" y="477" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RLhl6Q8psflOe4cfVQvL-56" value="保存访客信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="RLhl6Q8psflOe4cfVQvL-41" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="736" y="529" />
-            </Array>
-            <mxPoint x="790" y="529" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RLhl6Q8psflOe4cfVQvL-57" value="登记成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" target="RLhl6Q8psflOe4cfVQvL-41" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="737" y="581" />
-            </Array>
-            <mxPoint x="794.5" y="633" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RLhl6Q8psflOe4cfVQvL-58" value="返回登记成功结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="RLhl6Q8psflOe4cfVQvL-41" target="RLhl6Q8psflOe4cfVQvL-38" edge="1">
