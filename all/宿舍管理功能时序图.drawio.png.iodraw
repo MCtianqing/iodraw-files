@@ -71,7 +71,7 @@
             <mxPoint x="341.9135294117646" y="459.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXkwURRwx5KZRuwk7NXP-25" value="展示空闲房间和楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=15;" parent="1" edge="1">
+        <mxCell id="wXkwURRwx5KZRuwk7NXP-25" value="8、展示空闲房间和楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;fontSize=15;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="229" y="510" />
