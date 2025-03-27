@@ -89,13 +89,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1VNQKbCc9gNrrITAC6SH-37" value="显示提交成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=14;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="1VNQKbCc9gNrrITAC6SH-37" value="6、显示提交成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=14;" edge="1" parent="1" target="1VNQKbCc9gNrrITAC6SH-16">
+          <mxGeometry x="-0.0036" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="530" />
             </Array>
             <mxPoint x="295" y="530" as="sourcePoint" />
             <mxPoint x="99" y="530" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
