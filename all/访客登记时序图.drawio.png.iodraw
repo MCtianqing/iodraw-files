@@ -19,7 +19,7 @@
         <mxCell id="1VNQKbCc9gNrrITAC6SH-20" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=14;" vertex="1" parent="1VNQKbCc9gNrrITAC6SH-19">
           <mxGeometry x="70" y="290" width="10" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="1VNQKbCc9gNrrITAC6SH-31" value="保存访客信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1VNQKbCc9gNrrITAC6SH-19" target="1VNQKbCc9gNrrITAC6SH-20">
+        <mxCell id="1VNQKbCc9gNrrITAC6SH-31" value="4、保存访客信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1VNQKbCc9gNrrITAC6SH-19" target="1VNQKbCc9gNrrITAC6SH-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-14" y="290" />
@@ -27,7 +27,7 @@
             <mxPoint x="-120" y="290" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1VNQKbCc9gNrrITAC6SH-32" value="返回保存结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=14;" edge="1" parent="1VNQKbCc9gNrrITAC6SH-19" source="1VNQKbCc9gNrrITAC6SH-20">
+        <mxCell id="1VNQKbCc9gNrrITAC6SH-32" value="返回保存结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=14;" edge="1" parent="1VNQKbCc9gNrrITAC6SH-19" source="1VNQKbCc9gNrrITAC6SH-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-13" y="342" />
