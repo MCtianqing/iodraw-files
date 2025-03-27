@@ -35,15 +35,6 @@
             <mxPoint x="-120" y="342" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1VNQKbCc9gNrrITAC6SH-21" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="84" y="643" width="226" height="196" as="geometry" />
-        </mxCell>
-        <mxCell id="1VNQKbCc9gNrrITAC6SH-22" value="[保存成功]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1VNQKbCc9gNrrITAC6SH-21">
-          <mxGeometry x="30" width="196" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1VNQKbCc9gNrrITAC6SH-23" value="[保存失败]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;fontSize=14;" vertex="1" parent="1VNQKbCc9gNrrITAC6SH-21">
-          <mxGeometry y="103" width="226" height="4" as="geometry" />
-        </mxCell>
         <mxCell id="1VNQKbCc9gNrrITAC6SH-27" value="1、点击访客登记按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="1VNQKbCc9gNrrITAC6SH-16" target="1VNQKbCc9gNrrITAC6SH-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -68,28 +59,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1VNQKbCc9gNrrITAC6SH-33" value="显示登记成功提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=14;" edge="1" parent="1" source="1VNQKbCc9gNrrITAC6SH-18" target="1VNQKbCc9gNrrITAC6SH-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="205" y="721" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1VNQKbCc9gNrrITAC6SH-34" value="显示登记失败提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=14;" edge="1" parent="1" source="1VNQKbCc9gNrrITAC6SH-18" target="1VNQKbCc9gNrrITAC6SH-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="205" y="819" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1VNQKbCc9gNrrITAC6SH-35" value="显示错误提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=14;" edge="1" parent="1" source="1VNQKbCc9gNrrITAC6SH-18" target="1VNQKbCc9gNrrITAC6SH-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="205" y="927" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1VNQKbCc9gNrrITAC6SH-37" value="6、显示提交成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=14;" edge="1" parent="1" target="1VNQKbCc9gNrrITAC6SH-16">
+        <mxCell id="1VNQKbCc9gNrrITAC6SH-37" value="6、显示提交成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=14;" edge="1" parent="1" source="1VNQKbCc9gNrrITAC6SH-17" target="1VNQKbCc9gNrrITAC6SH-16">
           <mxGeometry x="-0.0036" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="530" />
