@@ -55,8 +55,8 @@
         <mxCell id="1VNQKbCc9gNrrITAC6SH-57" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;房间信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1VNQKbCc9gNrrITAC6SH-59" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;退宿申请&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="717" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="1VNQKbCc9gNrrITAC6SH-59" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;支付请求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
