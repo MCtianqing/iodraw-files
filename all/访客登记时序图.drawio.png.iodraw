@@ -11,7 +11,7 @@
           <mxGeometry x="220" y="150" width="150" height="892" as="geometry" />
         </mxCell>
         <mxCell id="1VNQKbCc9gNrrITAC6SH-18" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=14;" vertex="1" parent="1VNQKbCc9gNrrITAC6SH-17">
-          <mxGeometry x="70" y="107" width="10" height="680" as="geometry" />
+          <mxGeometry x="70" y="107" width="10" height="363" as="geometry" />
         </mxCell>
         <mxCell id="1VNQKbCc9gNrrITAC6SH-19" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="420" y="150" width="150" height="892" as="geometry" />
@@ -35,11 +35,13 @@
             <mxPoint x="-120" y="342" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1VNQKbCc9gNrrITAC6SH-27" value="1、点击访客登记按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="1VNQKbCc9gNrrITAC6SH-16" target="1VNQKbCc9gNrrITAC6SH-18">
+        <mxCell id="1VNQKbCc9gNrrITAC6SH-27" value="1、点击访客登记按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="204" y="257" />
+              <mxPoint x="204" y="280" />
             </Array>
+            <mxPoint x="94.32352941176464" y="280" as="sourcePoint" />
+            <mxPoint x="290" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1VNQKbCc9gNrrITAC6SH-28" value="2、显示访客登记表单" style="curved=1;endArrow=block;rounded=0;fontSize=14;" edge="1" parent="1" source="1VNQKbCc9gNrrITAC6SH-18" target="1VNQKbCc9gNrrITAC6SH-18">
