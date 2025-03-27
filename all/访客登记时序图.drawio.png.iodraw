@@ -44,20 +44,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1VNQKbCc9gNrrITAC6SH-28" value="显示访客登记表单" style="curved=1;endArrow=block;rounded=0;fontSize=14;" edge="1" parent="1" source="1VNQKbCc9gNrrITAC6SH-18" target="1VNQKbCc9gNrrITAC6SH-18">
-          <mxGeometry x="0.0923" y="50" relative="1" as="geometry">
+        <mxCell id="1VNQKbCc9gNrrITAC6SH-28" value="2、显示访客登记表单" style="curved=1;endArrow=block;rounded=0;fontSize=14;" edge="1" parent="1" source="1VNQKbCc9gNrrITAC6SH-18" target="1VNQKbCc9gNrrITAC6SH-18">
+          <mxGeometry x="-0.2308" y="44" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="350" y="309" />
               <mxPoint x="350" y="339" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="-4" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1VNQKbCc9gNrrITAC6SH-29" value="填写访客信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="1VNQKbCc9gNrrITAC6SH-16" target="1VNQKbCc9gNrrITAC6SH-18">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.002" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="202" y="391" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1VNQKbCc9gNrrITAC6SH-30" value="校验访客信息" style="curved=1;endArrow=block;rounded=0;fontSize=14;" edge="1" parent="1" source="1VNQKbCc9gNrrITAC6SH-18" target="1VNQKbCc9gNrrITAC6SH-18">
