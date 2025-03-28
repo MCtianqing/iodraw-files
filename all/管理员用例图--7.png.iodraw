@@ -229,13 +229,13 @@
         <mxCell id="0t0c3Lp0i-XWS8IS3rsL-20" value="住客信息填写" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="200" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0t0c3Lp0i-XWS8IS3rsL-22" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=classic;html=1;strokeWidth=1;fontSize=14;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=-0.013;exitY=0.694;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="0t0c3Lp0i-XWS8IS3rsL-19" target="0t0c3Lp0i-XWS8IS3rsL-7" edge="1">
+        <mxCell id="0t0c3Lp0i-XWS8IS3rsL-22" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=classic;html=1;strokeWidth=1;fontSize=14;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" target="0t0c3Lp0i-XWS8IS3rsL-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="220" as="sourcePoint" />
+            <mxPoint x="869" y="172" as="sourcePoint" />
             <mxPoint x="560" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0t0c3Lp0i-XWS8IS3rsL-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=classic;html=1;strokeWidth=1;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0t0c3Lp0i-XWS8IS3rsL-20" target="0t0c3Lp0i-XWS8IS3rsL-7" edge="1">
+        <mxCell id="0t0c3Lp0i-XWS8IS3rsL-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=classic;html=1;strokeWidth=1;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="0t0c3Lp0i-XWS8IS3rsL-20" target="0t0c3Lp0i-XWS8IS3rsL-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="230" as="sourcePoint" />
             <mxPoint x="570" y="250" as="targetPoint" />
@@ -261,7 +261,7 @@
         <mxCell id="KswBk_ztjkzZdMfvDpHY-5" value="填写房间租金" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="430" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KswBk_ztjkzZdMfvDpHY-6" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=classic;html=1;strokeWidth=1;fontSize=14;entryX=0.951;entryY=0.304;entryDx=0;entryDy=0;exitX=-0.02;exitY=0.653;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="KswBk_ztjkzZdMfvDpHY-5" target="KswBk_ztjkzZdMfvDpHY-1" edge="1">
+        <mxCell id="KswBk_ztjkzZdMfvDpHY-6" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=classic;html=1;strokeWidth=1;fontSize=14;entryX=0.951;entryY=0.304;entryDx=0;entryDy=0;exitX=-0.02;exitY=0.653;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;dashed=1;" parent="1" source="KswBk_ztjkzZdMfvDpHY-5" target="KswBk_ztjkzZdMfvDpHY-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="240" as="sourcePoint" />
             <mxPoint x="840" y="250" as="targetPoint" />
@@ -276,7 +276,7 @@
         <mxCell id="MhnJCzPplGA8i2dMeltP-1" value="住客换宿" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="350" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MhnJCzPplGA8i2dMeltP-2" value="" style="endArrow=classic;html=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0t0c3Lp0i-XWS8IS3rsL-5" target="MhnJCzPplGA8i2dMeltP-1" edge="1">
+        <mxCell id="MhnJCzPplGA8i2dMeltP-2" value="" style="endArrow=classic;html=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="0t0c3Lp0i-XWS8IS3rsL-5" target="MhnJCzPplGA8i2dMeltP-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="450" as="sourcePoint" />
             <mxPoint x="830.3999999999999" y="373.51999999999987" as="targetPoint" />
