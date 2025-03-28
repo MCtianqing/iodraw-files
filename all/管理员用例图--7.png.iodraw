@@ -267,14 +267,14 @@
             <mxPoint x="840" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KswBk_ztjkzZdMfvDpHY-7" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=classic;html=1;strokeWidth=1;fontSize=14;entryX=0.998;entryY=0.677;entryDx=0;entryDy=0;exitX=0.058;exitY=0.299;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="KswBk_ztjkzZdMfvDpHY-4" target="KswBk_ztjkzZdMfvDpHY-1" edge="1">
+        <mxCell id="KswBk_ztjkzZdMfvDpHY-7" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=classic;html=1;strokeWidth=1;fontSize=14;entryX=0.998;entryY=0.677;entryDx=0;entryDy=0;exitX=0.058;exitY=0.299;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;dashed=1;" parent="1" source="KswBk_ztjkzZdMfvDpHY-4" target="KswBk_ztjkzZdMfvDpHY-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="930" y="250" as="sourcePoint" />
             <mxPoint x="850" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MhnJCzPplGA8i2dMeltP-1" value="住客换宿" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="370" width="80" height="60" as="geometry" />
+          <mxGeometry x="850" y="350" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MhnJCzPplGA8i2dMeltP-2" value="" style="endArrow=classic;html=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0t0c3Lp0i-XWS8IS3rsL-5" target="MhnJCzPplGA8i2dMeltP-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
