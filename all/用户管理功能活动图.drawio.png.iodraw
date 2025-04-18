@@ -10,19 +10,19 @@
         <mxCell id="L1QXt7QglfFbmlCyxUpu-73" value="管理员菜单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="1950" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-74" value="住客/维修人员菜单" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-74" value="住客/维修人员菜单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="438" y="2146" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-75" value="选择操作: 增/删/改/查/条件查询" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="650" y="1905.25" width="209.13" height="138.5" as="geometry" />
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-81" value="更新数据库" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-81" value="更新数据库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="2050" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-82" value="操作完成" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1130" y="2050" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="L1QXt7QglfFbmlCyxUpu-84" value="修改个人信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="L1QXt7QglfFbmlCyxUpu-84" value="修改个人信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="676.06" y="2146" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L1QXt7QglfFbmlCyxUpu-91" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=14;" parent="1" source="L1QXt7QglfFbmlCyxUpu-73" target="L1QXt7QglfFbmlCyxUpu-75" edge="1">
