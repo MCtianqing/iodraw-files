@@ -16,13 +16,13 @@
         <mxCell id="pKI87qLIwqpfpk5mgcb7-7" value="取消维修请求" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="452" y="420" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-8" value="接收并确认任务" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-8" value="接收并确认任务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="302.5" y="500" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-10" value="完成任务" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-10" value="完成任务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="303" y="580" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-11" value="标记为“已完成”" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-11" value="标记为“已完成”" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="299.5" y="650" width="131" height="37.1" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-14" value="问题描述, 房间号, 其他信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" target="pKI87qLIwqpfpk5mgcb7-5" edge="1">
