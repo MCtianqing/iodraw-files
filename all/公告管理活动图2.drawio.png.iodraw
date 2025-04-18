@@ -7,13 +7,13 @@
         <mxCell id="RLhl6Q8psflOe4cfVQvL-14" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="80" y="240" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RLhl6Q8psflOe4cfVQvL-18" value="管理员管理公告" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RLhl6Q8psflOe4cfVQvL-18" value="管理员管理公告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="220" y="190" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RLhl6Q8psflOe4cfVQvL-20" value="更新数据库返回信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="RLhl6Q8psflOe4cfVQvL-20" value="更新数据库返回信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="390" y="190" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RLhl6Q8psflOe4cfVQvL-22" value="用户查看公告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="RLhl6Q8psflOe4cfVQvL-22" value="用户查看公告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="225" y="280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RLhl6Q8psflOe4cfVQvL-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" parent="1" source="RLhl6Q8psflOe4cfVQvL-14" target="RLhl6Q8psflOe4cfVQvL-18" edge="1">
@@ -49,9 +49,6 @@
             <mxPoint x="325" y="310" as="sourcePoint" />
             <mxPoint x="465" y="310" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="nX4Q3-N5qd1tQj_1Aw-2-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
