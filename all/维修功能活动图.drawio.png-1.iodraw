@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-1" value="住客提交维修请求" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-1" value="住客提交维修请求" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="353" y="180" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-5" value="管理员是否同意请求" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
@@ -100,6 +100,9 @@
             <mxPoint x="470" y="630" as="sourcePoint" />
             <mxPoint x="500" y="760" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="l8iHZKADQEKNuJeKfvTN-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
