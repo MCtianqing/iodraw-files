@@ -10,10 +10,10 @@
         <mxCell id="pKI87qLIwqpfpk5mgcb7-5" value="管理员是否同意请求" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="366" y="290" width="130" height="90.5" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-6" value="发送给维修人员" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-6" value="发送给维修人员" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="316" y="420" width="98" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="pKI87qLIwqpfpk5mgcb7-7" value="取消维修请求" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="pKI87qLIwqpfpk5mgcb7-7" value="取消维修请求" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="452" y="420" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pKI87qLIwqpfpk5mgcb7-8" value="接收并确认任务" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
